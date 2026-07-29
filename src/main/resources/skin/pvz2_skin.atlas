@@ -4,4076 +4,3111 @@ size: 2048, 2048
 format: RGBA8888
 filter: Linear, Linear
 repeat: none
-image_ui_almanac_findmore_store
-  rotate: false
-  xy: 679, 1112
-  size: 175, 175
-  orig: 175, 175
-  offset: 0, 0
-  index: -1
-image_ui_almanac_plant_select_pkt
-  rotate: false
-  xy: 1181, 1
-  size: 124, 80
-  orig: 124, 80
-  offset: 0, 0
-  index: -1
-image_ui_cards_almanac_plant_card
-  rotate: false
-  xy: 1927, 306
-  size: 83, 442
-  orig: 83, 442
-  offset: 0, 0
-  index: -1
-image_ui_cards_card_table_frame
-  rotate: false
-  xy: 756, 728
-  size: 164, 164
-  orig: 164, 164
-  offset: 0, 0
-  index: -1
-image_ui_cards_card_table_line_horizontal
-  rotate: false
-  xy: 1, 20
-  size: 165, 4
-  orig: 165, 4
-  offset: 0, 0
-  index: -1
-image_ui_cards_joust_tournament_results_card_demotion
-  rotate: false
-  xy: 1626, 124
-  size: 108, 345
-  orig: 108, 345
-  offset: 0, 0
-  index: -1
-image_ui_cards_plant_sun_cost_bkgd
-  rotate: false
-  xy: 864, 25
-  size: 127, 55
-  orig: 127, 55
-  offset: 0, 0
-  index: -1
-image_ui_cards_store_no_ad_background
-  rotate: false
-  xy: 549, 611
-  size: 205, 274
-  orig: 205, 274
-  offset: 0, 0
-  index: -1
-image_ui_cards_store_promo_ribbon
-  rotate: false
-  xy: 1358, 1558
-  size: 219, 64
-  orig: 219, 64
-  offset: 0, 0
-  index: -1
-image_ui_cards_store_promo_ribbon_small
-  rotate: false
-  xy: 1358, 1624
-  size: 219, 41
-  orig: 219, 41
-  offset: 0, 0
-  index: -1
-image_ui_cards_store_store_card_blue
-  rotate: false
-  xy: 327, 566
-  size: 220, 319
-  orig: 220, 319
-  offset: 0, 0
-  index: -1
-image_ui_cards_store_store_card_green
-  rotate: false
-  xy: 1802, 1627
-  size: 220, 319
-  orig: 220, 319
-  offset: 0, 0
-  index: -1
-image_ui_cards_store_store_card_purple
-  rotate: false
-  xy: 1580, 1627
-  size: 220, 319
-  orig: 220, 319
-  offset: 0, 0
-  index: -1
-image_ui_cards_store_store_card_rays_if_bundle
-  rotate: false
-  xy: 1, 1008
-  size: 423, 423
-  orig: 423, 423
-  offset: 0, 0
-  index: -1
-image_ui_cards_store_store_card_single_background
-  rotate: false
-  xy: 780, 1530
-  size: 354, 349
-  orig: 354, 349
-  offset: 0, 0
-  index: -1
-image_ui_cards_store_store_card_yellow
-  rotate: false
-  xy: 1358, 1667
-  size: 220, 319
-  orig: 220, 319
-  offset: 0, 0
-  index: -1
-image_ui_cards_store_store_dynamic_slot_card
-  rotate: false
-  xy: 1136, 1560
-  size: 220, 319
-  orig: 220, 319
-  offset: 0, 0
-  index: -1
-image_ui_coins_stack_3
-  rotate: false
-  xy: 1689, 486
-  size: 96, 99
-  orig: 96, 99
-  offset: 0, 0
-  index: -1
-image_ui_coins_stack_4
-  rotate: false
-  xy: 1886, 1010
-  size: 144, 116
-  orig: 144, 116
-  offset: 0, 0
-  index: -1
-image_ui_coins_stack_5
-  rotate: false
-  xy: 1078, 588
-  size: 158, 137
-  orig: 158, 137
-  offset: 0, 0
-  index: -1
-image_ui_coins_stack_6
-  rotate: false
-  xy: 856, 1169
-  size: 167, 137
-  orig: 167, 137
-  offset: 0, 0
-  index: -1
-image_ui_coins_stack_7
-  rotate: false
-  xy: 1739, 1107
-  size: 145, 137
-  orig: 145, 137
-  offset: 0, 0
-  index: -1
-image_ui_conveyor_conveyor_belt
-  rotate: false
-  xy: 1371, 244
-  size: 127, 18
-  orig: 127, 18
-  offset: 0, 0
-  index: -1
-image_ui_conveyor_conveyor_top
-  rotate: false
-  xy: 978, 1318
-  size: 127, 10
-  orig: 127, 10
-  offset: 0, 0
-  index: -1
-image_ui_dialog_asset_dialogborder
-  rotate: false
-  xy: 756, 530
-  size: 159, 158
-  orig: 159, 158
-  offset: 0, 0
-  index: -1
-image_ui_dialog_asset_dialogborder_bigwavebeach
-  rotate: false
-  xy: 1797, 1246
-  size: 159, 158
-  orig: 159, 158
-  offset: 0, 0
-  index: -1
-image_ui_dialog_asset_dialogborder_birthdayz
-  rotate: false
-  xy: 1797, 1406
-  size: 159, 153
-  orig: 159, 153
-  offset: 0, 0
-  index: -1
-image_ui_dialog_asset_dialogborder_blackfriday
-  rotate: false
-  xy: 1636, 1401
-  size: 159, 158
-  orig: 159, 158
-  offset: 0, 0
-  index: -1
-image_ui_dialog_asset_dialogborder_carnival
-  rotate: false
-  xy: 1475, 1398
-  size: 159, 158
-  orig: 159, 158
-  offset: 0, 0
-  index: -1
-image_ui_dialog_asset_dialogborder_fallfestival
-  rotate: false
-  xy: 1314, 1398
-  size: 159, 158
-  orig: 159, 158
-  offset: 0, 0
-  index: -1
-image_ui_dialog_asset_dialogborder_feastivus
-  rotate: false
-  xy: 1083, 849
-  size: 159, 158
-  orig: 159, 158
-  offset: 0, 0
-  index: -1
-image_ui_dialog_asset_dialogborder_foodfight
-  rotate: false
-  xy: 922, 849
-  size: 159, 158
-  orig: 159, 158
-  offset: 0, 0
-  index: -1
-image_ui_dialog_asset_dialogborder_lawnofdoom
-  rotate: false
-  xy: 1017, 1009
-  size: 159, 158
-  orig: 159, 158
-  offset: 0, 0
-  index: -1
-image_ui_dialog_asset_dialogborder_luckothezombie
-  rotate: false
-  xy: 452, 107
-  size: 159, 158
-  orig: 159, 158
-  offset: 0, 0
-  index: -1
-image_ui_dialog_asset_dialogborder_lunar_new_year
-  rotate: false
-  xy: 291, 107
-  size: 159, 158
-  orig: 159, 158
-  offset: 0, 0
-  index: -1
-image_ui_dialog_asset_dialogborder_mgpwinterevent
-  rotate: false
-  xy: 1011, 370
-  size: 159, 158
-  orig: 159, 158
-  offset: 0, 0
-  index: -1
-image_ui_dialog_asset_dialogborder_roman
-  rotate: false
-  xy: 917, 530
-  size: 159, 158
-  orig: 159, 158
-  offset: 0, 0
-  index: -1
-image_ui_dialog_asset_dialogborder_springening
-  rotate: false
-  xy: 850, 370
-  size: 159, 158
-  orig: 159, 158
-  offset: 0, 0
-  index: -1
-image_ui_dialog_asset_dialogborder_tombtangled
-  rotate: false
-  xy: 689, 370
-  size: 159, 158
-  orig: 159, 158
-  offset: 0, 0
-  index: -1
-image_ui_dialog_asset_dialogborder_valenbrainz
-  rotate: false
-  xy: 528, 392
-  size: 159, 158
-  orig: 159, 158
-  offset: 0, 0
-  index: -1
-image_ui_dialog_asset_dialogborder_zcorp
-  rotate: false
-  xy: 856, 1009
-  size: 159, 158
-  orig: 159, 158
-  offset: 0, 0
-  index: -1
-image_ui_dialog_asset_dialogborder_summernights
-  rotate: false
-  xy: 856, 1009
-  size: 159, 158
-  orig: 159, 158
-  offset: 0, 0
-  index: -1
-image_ui_dialog_asset_dialogtexture
-  rotate: false
-  xy: 666, 940
-  size: 170, 170
-  orig: 170, 170
-  offset: 0, 0
-  index: -1
-image_ui_dialog_asset_travel_log_background_left_image
-  rotate: false
-  xy: 1740, 865
-  size: 106, 240
-  orig: 106, 240
-  offset: 0, 0
-  index: -1
-image_ui_dialog_asset_travel_log_background_right_image
-  rotate: false
-  xy: 1632, 688
-  size: 106, 240
-  orig: 106, 240
-  offset: 0, 0
-  index: -1
-image_ui_gems_stack_2
-  rotate: false
-  xy: 1740, 765
-  size: 102, 98
-  orig: 102, 98
-  offset: 0, 0
-  index: -1
-image_ui_gems_stack_3
-  rotate: false
-  xy: 518, 292
-  size: 141, 98
-  orig: 141, 98
-  offset: 0, 0
-  index: -1
-image_ui_gems_stack_4
-  rotate: false
-  xy: 1636, 1280
-  size: 157, 119
-  orig: 157, 119
-  offset: 0, 0
-  index: -1
-image_ui_gems_stack_5
-  rotate: false
-  xy: 1385, 1062
-  size: 134, 121
-  orig: 134, 121
-  offset: 0, 0
-  index: -1
-image_ui_gems_stack_6
-  rotate: false
-  xy: 1242, 630
-  size: 134, 121
-  orig: 134, 121
-  offset: 0, 0
-  index: -1
-image_ui_generic_bluebutton
-  rotate: false
-  xy: 993, 7
-  size: 121, 73
-  orig: 121, 73
-  offset: 0, 0
-  index: -1
-image_ui_generic_bluebutton_down
-  rotate: false
-  xy: 1574, 471
-  size: 113, 69
-  orig: 113, 69
-  offset: 0, 0
-  index: -1
-image_ui_generic_bluetab_active
-  rotate: false
-  xy: 311, 479
-  size: 215, 85
-  orig: 215, 85
-  offset: 0, 0
-  index: -1
-image_ui_generic_bluetab_down
-  rotate: false
-  xy: 761, 1308
-  size: 215, 64
-  orig: 215, 64
-  offset: 0, 0
-  index: -1
-image_ui_generic_brownbutton
-  rotate: false
-  xy: 1574, 542
-  size: 113, 65
-  orig: 113, 65
-  offset: 0, 0
-  index: -1
-image_ui_generic_brownbutton_down
-  rotate: false
-  xy: 1464, 29
-  size: 113, 65
-  orig: 113, 65
-  offset: 0, 0
-  index: -1
-image_ui_generic_button_generic_currency_down
-  rotate: false
-  xy: 265, 46
-  size: 158, 59
-  orig: 158, 59
-  offset: 0, 0
-  index: -1
-image_ui_generic_button_generic_currency_normal
-  rotate: false
-  xy: 1082, 727
-  size: 158, 59
-  orig: 158, 59
-  offset: 0, 0
-  index: -1
-image_ui_generic_button_generic_ltecurrency
-  rotate: false
-  xy: 922, 727
-  size: 158, 59
-  orig: 158, 59
-  offset: 0, 0
-  index: -1
-image_ui_generic_buttons_coin_buy_normal
-  rotate: false
-  xy: 301, 330
-  size: 181, 57
-  orig: 181, 57
-  offset: 0, 0
-  index: -1
-image_ui_generic_buttons_coin_buy_selected
-  rotate: false
-  xy: 549, 552
-  size: 181, 57
-  orig: 181, 57
-  offset: 0, 0
-  index: -1
-image_ui_generic_buttons_premium_normal
-  rotate: false
-  xy: 1082, 788
-  size: 158, 59
-  orig: 158, 59
-  offset: 0, 0
-  index: -1
-image_ui_generic_buttons_premium_selected
-  rotate: false
-  xy: 922, 788
-  size: 158, 59
-  orig: 158, 59
-  offset: 0, 0
-  index: -1
-image_ui_generic_content_well
-  rotate: false
-  xy: 1444, 472
-  size: 128, 128
-  orig: 128, 128
-  offset: 0, 0
-  index: -1
-image_ui_generic_disabledbutton
-  rotate: false
-  xy: 1307, 7
-  size: 113, 65
-  orig: 113, 65
-  offset: 0, 0
-  index: -1
-image_ui_generic_disabledbutton_down
-  rotate: false
-  xy: 1517, 609
-  size: 113, 65
-  orig: 113, 65
-  offset: 0, 0
-  index: -1
-image_ui_generic_energy_refresh_timer_background
-  rotate: false
-  xy: 1444, 441
-  size: 125, 29
-  orig: 125, 29
-  offset: 0, 0
-  index: -1
-image_ui_generic_gemsbuybutton
-  rotate: false
-  xy: 1736, 168
-  size: 94, 60
-  orig: 94, 60
-  offset: 0, 0
-  index: -1
-image_ui_generic_gemsbuybutton_down
-  rotate: false
-  xy: 1736, 230
-  size: 94, 60
-  orig: 94, 60
-  offset: 0, 0
-  index: -1
-image_ui_generic_greenbutton
-  rotate: false
-  xy: 1517, 676
-  size: 113, 65
-  orig: 113, 65
-  offset: 0, 0
-  index: -1
-image_ui_generic_greenbutton_down
-  rotate: false
-  xy: 1517, 743
-  size: 113, 65
-  orig: 113, 65
-  offset: 0, 0
-  index: -1
-image_ui_generic_greenbuybutton
-  rotate: false
-  xy: 1501, 265
-  size: 113, 49
-  orig: 113, 49
-  offset: 0, 0
-  index: -1
-image_ui_generic_greenbuybutton_down
-  rotate: false
-  xy: 1517, 810
-  size: 113, 51
-  orig: 113, 51
-  offset: 0, 0
-  index: -1
-image_ui_generic_greentab_active
-  rotate: false
-  xy: 761, 1374
-  size: 215, 85
-  orig: 215, 85
-  offset: 0, 0
-  index: -1
-image_ui_generic_greentab_down
-  rotate: false
-  xy: 1796, 1561
-  size: 215, 64
-  orig: 215, 64
-  offset: 0, 0
-  index: -1
-image_ui_generic_guaranteed_bg
-  rotate: false
-  xy: 407, 1
-  size: 98, 20
-  orig: 98, 20
-  offset: 0, 0
-  index: -1
-image_ui_generic_lod_pinata
-  rotate: false
-  xy: 1848, 883
-  size: 99, 125
-  orig: 99, 125
-  offset: 0, 0
-  index: -1
-image_ui_generic_purplebutton
-  rotate: false
-  xy: 1517, 863
-  size: 113, 65
-  orig: 113, 65
-  offset: 0, 0
-  index: -1
-image_ui_generic_purplebutton_down
-  rotate: false
-  xy: 1167, 1251
-  size: 113, 65
-  orig: 113, 65
-  offset: 0, 0
-  index: -1
-image_ui_generic_sm_purple_btn_down
-  rotate: false
-  xy: 1844, 750
-  size: 84, 51
-  orig: 84, 51
-  offset: 0, 0
-  index: -1
-image_ui_generic_sm_purple_btn_normal
-  rotate: false
-  xy: 1958, 1252
-  size: 84, 51
-  orig: 84, 51
-  offset: 0, 0
-  index: -1
-image_ui_generic_tantab_down
-  rotate: false
-  xy: 1579, 1561
-  size: 215, 64
-  orig: 215, 64
-  offset: 0, 0
-  index: -1
-image_ui_generic_timer_ribbon_red
-  rotate: false
-  xy: 918, 691
-  size: 140, 34
-  orig: 140, 34
-  offset: 0, 0
-  index: -1
-image_ui_generic_vtb
-  rotate: false
-  xy: 780, 1461
-  size: 229, 32
-  orig: 229, 32
-  offset: 0, 0
-  index: -1
-image_ui_generic_xp_progress_icon_green_large
-  rotate: false
-  xy: 1371, 264
-  size: 128, 142
-  orig: 128, 142
-  offset: 0, 0
-  index: -1
-image_ui_generic_xp_progress_icon_yellow_large
-  rotate: false
-  xy: 1314, 408
-  size: 128, 142
-  orig: 128, 142
-  offset: 0, 0
-  index: -1
-image_ui_hud_eventshop_buttons_hud_event_shop_normal
-  rotate: false
-  xy: 1734, 587
-  size: 96, 92
-  orig: 96, 92
-  offset: 0, 0
-  index: -1
-image_ui_hud_eventshop_buttons_hud_event_shop_selected
-  rotate: false
-  xy: 1949, 916
-  size: 96, 92
-  orig: 96, 92
-  offset: 0, 0
-  index: -1
-image_ui_hud_ingame_alert_ring
-  rotate: false
-  xy: 1587, 1128
-  size: 150, 150
-  orig: 150, 150
-  offset: 0, 0
-  index: -1
-image_ui_hud_ingame_background_3slice
-  rotate: false
-  xy: 1167, 1207
-  size: 84, 42
-  orig: 84, 42
-  offset: 0, 0
-  index: -1
-image_ui_hud_ingame_demo
-  rotate: false
-  xy: 1, 337
-  size: 298, 86
-  orig: 298, 86
-  offset: 0, 0
-  index: -1
-image_ui_hud_ingame_plantfood_bank
-  rotate: false
-  xy: 310, 389
-  size: 206, 88
-  orig: 206, 88
-  offset: 0, 0
-  index: -1
-image_ui_hud_ingame_plantfood_buy_confirmation
-  rotate: false
-  xy: 1464, 96
-  size: 125, 146
-  orig: 125, 146
-  offset: 0, 0
-  index: -1
-image_ui_hud_ingame_progress_meter
-  rotate: false
-  xy: 780, 1495
-  size: 273, 33
-  orig: 273, 33
-  offset: 0, 0
-  index: -1
-image_ui_hud_ingame_shovel_icon
-  rotate: false
-  xy: 1238, 552
-  size: 133, 76
-  orig: 133, 76
-  offset: 0, 0
-  index: -1
-image_ui_hud_ingame_sprout_icon
-  rotate: false
-  xy: 1435, 1185
-  size: 150, 69
-  orig: 150, 69
-  offset: 0, 0
-  index: -1
-image_ui_hud_ingame_sprout_icon_down
-  rotate: false
-  xy: 1435, 1256
-  size: 150, 69
-  orig: 150, 69
-  offset: 0, 0
-  index: -1
-image_ui_hud_ingame_sprout_icon_noplus
-  rotate: false
-  xy: 1435, 1327
-  size: 150, 69
-  orig: 150, 69
-  offset: 0, 0
-  index: -1
-image_ui_hud_ingame_zomboss_progress_meter
-  rotate: false
-  xy: 1676, 2014
-  size: 313, 33
-  orig: 313, 33
-  offset: 0, 0
-  index: -1
-image_ui_hud_plantboost_buttons_hud_plant_boost_normal
-  rotate: false
-  xy: 1833, 308
-  size: 92, 89
-  orig: 92, 89
-  offset: 0, 0
-  index: -1
-image_ui_hud_plantboost_buttons_hud_plant_boost_selected
-  rotate: false
-  xy: 1833, 399
-  size: 92, 89
-  orig: 92, 89
-  offset: 0, 0
-  index: -1
-image_ui_hud_tasklist_buttons_hud_task_list_normal
-  rotate: false
-  xy: 327, 914
-  size: 96, 92
-  orig: 96, 92
-  offset: 0, 0
-  index: -1
-image_ui_hud_tasklist_buttons_hud_task_list_selected
-  rotate: false
-  xy: 1249, 1881
-  size: 96, 92
-  orig: 96, 92
-  offset: 0, 0
-  index: -1
-image_ui_if_bundle_reward1_bg
-  rotate: false
-  xy: 425, 23
-  size: 155, 82
-  orig: 155, 82
-  offset: 0, 0
-  index: -1
-image_ui_if_bundle_reward2_bg
-  rotate: false
-  xy: 1740, 681
-  size: 102, 82
-  orig: 102, 82
-  offset: 0, 0
-  index: -1
-image_ui_if_bundle_reward3_bg
-  rotate: false
-  xy: 1848, 803
-  size: 84, 78
-  orig: 84, 78
-  offset: 0, 0
-  index: -1
-image_ui_if_bundle_reward_multiplier_bg
-  rotate: false
-  xy: 756, 690
-  size: 160, 36
-  orig: 160, 36
-  offset: 0, 0
-  index: -1
-image_ui_mainmenu_feature_unlock_characters_l
-  rotate: false
-  xy: 1283, 1206
-  size: 150, 190
-  orig: 150, 190
-  offset: 0, 0
-  index: -1
-image_ui_mainmenu_feature_unlock_characters_r
-  rotate: false
-  xy: 1131, 1318
-  size: 150, 190
-  orig: 150, 190
-  offset: 0, 0
-  index: -1
-image_ui_mainmenu_feature_unlock_header_panel_blue
-  rotate: false
-  xy: 1382, 602
-  size: 133, 458
-  orig: 133, 458
-  offset: 0, 0
-  index: -1
-image_ui_mainmenu_loader_fill
-  rotate: false
-  xy: 503, 1479
-  size: 275, 26
-  orig: 275, 26
-  offset: 0, 0
-  index: -1
-image_ui_mainmenu_loader_meter
-  rotate: false
-  xy: 1, 237
-  size: 288, 38
-  orig: 288, 38
-  offset: 0, 0
-  index: -1
-image_ui_mainmenu_mainmenu_content_downloading
-  rotate: false
-  xy: 1, 1507
-  size: 777, 269
-  orig: 777, 269
-  offset: 0, 0
-  index: -1
-image_ui_mainmenu_mainmenu_content_offline
-  rotate: false
-  xy: 1, 1778
-  size: 777, 269
-  orig: 777, 269
-  offset: 0, 0
-  index: -1
-image_ui_mainmenu_mm_camera
-  rotate: false
-  xy: 1632, 616
-  size: 100, 70
-  orig: 100, 70
-  offset: 0, 0
-  index: -1
-image_ui_mainmenu_mm_camerawindowguide
-  rotate: false
-  xy: 426, 887
-  size: 238, 238
-  orig: 238, 238
-  offset: 0, 0
-  index: -1
-image_ui_mainmenu_mm_gpgsicon
-  rotate: false
-  xy: 1949, 833
-  size: 88, 81
-  orig: 88, 81
-  offset: 0, 0
-  index: -1
-image_ui_mainmenu_mm_icloudicon
-  rotate: false
-  xy: 1736, 85
-  size: 88, 81
-  orig: 88, 81
-  offset: 0, 0
-  index: -1
-image_ui_mainmenu_mm_nameentry
-  rotate: false
-  xy: 1, 277
-  size: 291, 58
-  orig: 291, 58
-  offset: 0, 0
-  index: -1
-image_ui_mainmenu_mm_newsicon
-  rotate: false
-  xy: 1958, 1305
-  size: 88, 81
-  orig: 88, 81
-  offset: 0, 0
-  index: -1
-image_ui_mainmenu_mm_settings
-  rotate: false
-  xy: 1958, 1388
-  size: 88, 81
-  orig: 88, 81
-  offset: 0, 0
-  index: -1
-image_ui_mainmenu_mm_settings_tab
-  rotate: false
-  xy: 1282, 1988
-  size: 392, 59
-  orig: 392, 59
-  offset: 0, 0
-  index: -1
-image_ui_mainmenu_offline_image
-  rotate: false
-  xy: 978, 1330
-  size: 151, 129
-  orig: 151, 129
-  offset: 0, 0
-  index: -1
-image_ui_mainmenu_radial_glow_blue
-  rotate: false
-  xy: 1, 613
-  size: 324, 324
-  orig: 324, 324
-  offset: 0, 0
-  index: -1
-image_ui_mints_stack_3
-  rotate: false
-  xy: 1886, 1128
-  size: 144, 116
-  orig: 144, 116
-  offset: 0, 0
-  index: -1
-image_ui_powerups_powerup_frame
-  rotate: false
-  xy: 1, 519
-  size: 308, 92
-  orig: 308, 92
-  offset: 0, 0
-  index: -1
-image_ui_powerups_powerup_frame_minigames
-  rotate: false
-  xy: 1, 425
-  size: 307, 92
-  orig: 307, 92
-  offset: 0, 0
-  index: -1
-image_ui_quests_achievements_active
-  rotate: false
-  xy: 1178, 1030
-  size: 139, 86
-  orig: 139, 86
-  offset: 0, 0
-  index: -1
-image_ui_quests_achievements_inactive
-  rotate: false
-  xy: 723, 15
-  size: 139, 65
-  orig: 139, 65
-  offset: 0, 0
-  index: -1
-image_ui_quests_daily_active
-  rotate: false
-  xy: 1244, 1118
-  size: 139, 86
-  orig: 139, 86
-  offset: 0, 0
-  index: -1
-image_ui_quests_daily_inactive
-  rotate: false
-  xy: 1323, 74
-  size: 139, 65
-  orig: 139, 65
-  offset: 0, 0
-  index: -1
-image_ui_quests_daily_quest_banner
-  rotate: false
-  xy: 1136, 1510
-  size: 176, 48
-  orig: 176, 48
-  offset: 0, 0
-  index: -1
-image_ui_quests_earmark_epic
-  rotate: false
-  xy: 294, 267
-  size: 180, 61
-  orig: 180, 61
-  offset: 0, 0
-  index: -1
-image_ui_quests_earmark_premium
-  rotate: false
-  xy: 265, 10
-  size: 140, 34
-  orig: 140, 34
-  offset: 0, 0
-  index: -1
-image_ui_quests_earmark_primary
-  rotate: false
-  xy: 1229, 229
-  size: 140, 34
-  orig: 140, 34
-  offset: 0, 0
-  index: -1
-image_ui_quests_epic_active
-  rotate: false
-  xy: 1323, 141
-  size: 139, 86
-  orig: 139, 86
-  offset: 0, 0
-  index: -1
-image_ui_quests_epic_inactive
-  rotate: false
-  xy: 582, 17
-  size: 139, 65
-  orig: 139, 65
-  offset: 0, 0
-  index: -1
-image_ui_quests_level_node_connector_row_connection_empty
-  rotate: false
-  xy: 1, 1433
-  size: 500, 72
-  orig: 500, 72
-  offset: 0, 0
-  index: -1
-image_ui_quests_level_node_connector_row_connection_fill
-  rotate: false
-  xy: 780, 1975
-  size: 500, 72
-  orig: 500, 72
-  offset: 0, 0
-  index: -1
-image_ui_quests_new_banner
-  rotate: false
-  xy: 666, 894
-  size: 169, 44
-  orig: 169, 44
-  offset: 0, 0
-  index: -1
-image_ui_quests_panel_edge_to_edge
-  rotate: false
-  xy: 1676, 1948
-  size: 252, 64
-  orig: 252, 64
-  offset: 0, 0
-  index: -1
-image_ui_quests_quest_panel_complete
-  rotate: false
-  xy: 1736, 292
-  size: 95, 95
-  orig: 95, 95
-  offset: 0, 0
-  index: -1
-image_ui_quests_quest_panel_complete_new
-  rotate: false
-  xy: 613, 84
-  size: 140, 141
-  orig: 140, 141
-  offset: 0, 0
-  index: -1
-image_ui_quests_quest_panel_daily
-  rotate: false
-  xy: 780, 1881
-  size: 467, 92
-  orig: 467, 92
-  offset: 0, 0
-  index: -1
-image_ui_quests_quest_panel_default
-  rotate: false
-  xy: 1087, 227
-  size: 140, 141
-  orig: 140, 141
-  offset: 0, 0
-  index: -1
-image_ui_quests_quest_panel_epic
-  rotate: false
-  xy: 945, 226
-  size: 140, 142
-  orig: 140, 142
-  offset: 0, 0
-  index: -1
-image_ui_quests_quest_panel_epic_complete
-  rotate: false
-  xy: 803, 226
-  size: 140, 142
-  orig: 140, 142
-  offset: 0, 0
-  index: -1
-image_ui_quests_quest_panel_expired
-  rotate: false
-  xy: 661, 227
-  size: 140, 141
-  orig: 140, 141
-  offset: 0, 0
-  index: -1
-image_ui_quests_quest_panel_new
-  rotate: false
-  xy: 1736, 389
-  size: 95, 95
-  orig: 95, 95
-  offset: 0, 0
-  index: -1
-image_ui_quests_quest_panel_new_epic
-  rotate: false
-  xy: 1787, 490
-  size: 95, 95
-  orig: 95, 95
-  offset: 0, 0
-  index: -1
-image_ui_quests_quest_rewards_steps_grid
-  rotate: false
-  xy: 1, 939
-  size: 324, 67
-  orig: 324, 67
-  offset: 0, 0
-  index: -1
-image_ui_quests_questborder
-  rotate: false
-  xy: 1501, 316
-  size: 123, 123
-  orig: 123, 123
-  offset: 0, 0
-  index: -1
-image_ui_quests_quests_title_plaque_tier0
-  rotate: false
-  xy: 426, 1127
-  size: 251, 160
-  orig: 251, 160
-  offset: 0, 0
-  index: -1
-image_ui_quests_travel_log_corner
-  rotate: false
-  xy: 1, 26
-  size: 262, 209
-  orig: 262, 209
-  offset: 0, 0
-  index: -1
-image_ui_quests_travel_log_corner_norank
-  rotate: false
-  xy: 503, 1289
-  size: 256, 188
-  orig: 256, 188
-  offset: 0, 0
-  index: -1
-image_ui_quests_travel_log_panel_claim_all
-  rotate: false
-  xy: 1958, 1471
-  size: 88, 88
-  orig: 88, 88
-  offset: 0, 0
-  index: -1
-image_ui_quests_travel_log_panel_complete
-  rotate: false
-  xy: 1244, 753
-  size: 136, 136
-  orig: 136, 136
-  offset: 0, 0
-  index: -1
-image_ui_quests_travel_log_panel_default
-  rotate: false
-  xy: 1229, 265
-  size: 140, 141
-  orig: 140, 141
-  offset: 0, 0
-  index: -1
-image_ui_quests_travel_log_panel_epic
-  rotate: false
-  xy: 1172, 408
-  size: 140, 142
-  orig: 140, 142
-  offset: 0, 0
-  index: -1
-image_ui_quests_travel_log_panel_epic_complete
-  rotate: false
-  xy: 1244, 891
-  size: 136, 137
-  orig: 136, 137
-  offset: 0, 0
-  index: -1
-image_ui_quests_travel_log_panel_expired
-  rotate: false
-  xy: 1025, 1175
-  size: 140, 141
-  orig: 140, 141
-  offset: 0, 0
-  index: -1
-image_ui_quests_travel_log_panel_holiday_fallfestival
-  rotate: false
-  xy: 1181, 83
-  size: 140, 142
-  orig: 140, 142
-  offset: 0, 0
-  index: -1
-image_ui_quests_travel_log_panel_holiday_feastivus
-  rotate: false
-  xy: 1039, 82
-  size: 140, 142
-  orig: 140, 142
-  offset: 0, 0
-  index: -1
-image_ui_quests_travel_log_panel_holiday_foodfight
-  rotate: false
-  xy: 897, 82
-  size: 140, 142
-  orig: 140, 142
-  offset: 0, 0
-  index: -1
-image_ui_quests_travel_log_panel_holiday_lawnofdoom
-  rotate: false
-  xy: 755, 82
-  size: 140, 142
-  orig: 140, 142
-  offset: 0, 0
-  index: -1
-image_ui_red_flag
-  rotate: false
-  xy: 1078, 552
-  size: 140, 34
-  orig: 140, 34
-  offset: 0, 0
-  index: -1
-image_ui_sunflower
-  rotate: false
-  xy: 1517, 930
-  size: 119, 130
-  orig: 119, 130
-  offset: 0, 0
-  index: -1
-
-pvz2_skin2.png
-size: 2048, 2048
-format: RGBA8888
-filter: Linear, Linear
-repeat: none
 white-pixel
   rotate: false
-  xy: 1064, 1971
+  xy: 931, 1408
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
 action
   rotate: false
-  xy: 704, 1057
+  xy: 1039, 1914
   size: 21, 21
   orig: 21, 21
   offset: 0, 0
   index: -1
 checkbox_off
   rotate: false
-  xy: 1809, 1821
+  xy: 1488, 1178
   size: 21, 21
   orig: 21, 21
   offset: 0, 0
   index: -1
 checkbox_on
   rotate: false
-  xy: 786, 1096
+  xy: 276, 1711
   size: 21, 21
   orig: 21, 21
   offset: 0, 0
   index: -1
 favorite_off
   rotate: false
-  xy: 901, 1141
+  xy: 322, 1711
   size: 21, 21
   orig: 21, 21
   offset: 0, 0
   index: -1
 favorite_on
   rotate: false
-  xy: 704, 1034
+  xy: 907, 1199
   size: 21, 21
   orig: 21, 21
   offset: 0, 0
   index: -1
 folder_collapsed
   rotate: false
-  xy: 809, 1096
+  xy: 299, 1711
   size: 21, 21
   orig: 21, 21
   offset: 0, 0
   index: -1
 folder_expanded
   rotate: false
-  xy: 1809, 1844
+  xy: 1039, 1891
   size: 21, 21
   orig: 21, 21
   offset: 0, 0
   index: -1
 folder_lane
   rotate: false
-  xy: 930, 1334
+  xy: 772, 1631
   size: 10, 21
   orig: 10, 21
   offset: 0, 0
   index: -1
 image_ui_almanac_almanac_boost
   rotate: false
-  xy: 834, 1164
+  xy: 1206, 214
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 image_ui_almanac_almanac_pierce
   rotate: false
-  xy: 784, 1164
+  xy: 777, 1
   size: 48, 49
   orig: 48, 49
   offset: 0, 0
   index: -1
 image_ui_almanac_almanac_planttab_upgrade_almanac_planttab_upgrade_68x92
   rotate: false
-  xy: 431, 562
+  xy: 1801, 715
   size: 34, 46
   orig: 34, 46
   offset: 0, 0
   index: -1
 image_ui_almanac_almanac_planttab_upgrade_almanac_planttab_upgrade_68x92_2
   rotate: false
-  xy: 434, 610
+  xy: 1765, 715
   size: 34, 46
   orig: 34, 46
   offset: 0, 0
   index: -1
 image_ui_almanac_almanac_stat_icon_suncost_layer_0
   rotate: false
-  xy: 884, 1164
+  xy: 1206, 164
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 image_ui_almanac_almanac_stat_icon_suncost_layer_1
   rotate: false
-  xy: 353, 352
+  xy: 1373, 471
   size: 35, 36
   orig: 35, 36
   offset: 0, 0
   index: -1
-image_ui_almanac_almanac_stat_icon_suncost_layer_2
-  rotate: false
-  xy: 1098, 1694
-  size: 38, 45
-  orig: 38, 45
-  offset: 0, 0
-  index: -1
 image_ui_almanac_buttons_hud_back_normal
   rotate: false
-  xy: 338, 1310
+  xy: 1212, 1279
   size: 76, 72
   orig: 76, 72
   offset: 0, 0
   index: -1
 image_ui_almanac_buttons_hud_back_selected
   rotate: false
-  xy: 325, 785
+  xy: 1466, 1102
   size: 75, 72
   orig: 75, 72
   offset: 0, 0
   index: -1
 image_ui_almanac_card_plant_scrollbar
   rotate: false
-  xy: 488, 702
+  xy: 1313, 122
   size: 13, 248
   orig: 13, 248
   offset: 0, 0
   index: -1
 image_ui_almanac_card_zombie_scrollbar
   rotate: false
-  xy: 428, 5
+  xy: 1298, 122
   size: 13, 248
   orig: 13, 248
   offset: 0, 0
   index: -1
 image_ui_almanac_checkbox_disabled
   rotate: false
-  xy: 1048, 1657
+  xy: 1678, 761
   size: 46, 46
   orig: 46, 46
   offset: 0, 0
   index: -1
 image_ui_almanac_checkbox_disabled_sharp
   rotate: false
-  xy: 311, 21
+  xy: 650, 51
   size: 63, 63
   orig: 63, 63
   offset: 0, 0
   index: -1
 image_ui_almanac_checkbox_enabled
   rotate: false
-  xy: 990, 1343
+  xy: 1205, 116
   size: 46, 46
   orig: 46, 46
   offset: 0, 0
   index: -1
 image_ui_almanac_checkbox_enabled_sharp
   rotate: false
-  xy: 623, 1394
+  xy: 585, 51
   size: 63, 63
   orig: 63, 63
   offset: 0, 0
   index: -1
 image_ui_almanac_costume_button_down
   rotate: false
-  xy: 826, 1491
+  xy: 715, 7
   size: 60, 60
   orig: 60, 60
   offset: 0, 0
   index: -1
 image_ui_almanac_costume_button_up
   rotate: false
-  xy: 764, 1398
+  xy: 1614, 557
   size: 60, 60
   orig: 60, 60
   offset: 0, 0
   index: -1
 image_ui_almanac_filter_button_down
   rotate: false
-  xy: 354, 626
+  xy: 1934, 734
   size: 39, 39
   orig: 39, 39
   offset: 0, 0
   index: -1
 image_ui_almanac_filter_button_up
   rotate: false
-  xy: 395, 667
+  xy: 1893, 734
   size: 39, 39
   orig: 39, 39
   offset: 0, 0
   index: -1
 image_ui_almanac_general_fuelbar_fill
   rotate: false
-  xy: 781, 1384
+  xy: 1097, 1515
   size: 15, 12
   orig: 15, 12
   offset: 0, 0
   index: -1
 image_ui_almanac_general_scrollbar
   rotate: false
-  xy: 1538, 1710
+  xy: 2022, 1688
   size: 20, 31
   orig: 20, 31
   offset: 0, 0
   index: -1
 image_ui_almanac_general_scrollbar_bkgd
   rotate: false
-  xy: 2030, 1799
+  xy: 1416, 1416
   size: 17, 23
   orig: 17, 23
   offset: 0, 0
   index: -1
 image_ui_almanac_generic_lte_image
   rotate: false
-  xy: 326, 859
+  xy: 1134, 264
   size: 75, 75
   orig: 75, 75
   offset: 0, 0
   index: -1
 image_ui_almanac_level_up_off_screen_indicator_v2
   rotate: false
-  xy: 311, 86
+  xy: 388, 1
   size: 64, 96
   orig: 64, 96
   offset: 0, 0
   index: -1
 image_ui_almanac_level_up_off_screen_indicator_v2_down
   rotate: false
-  xy: 311, 184
+  xy: 322, 1
   size: 64, 96
   orig: 64, 96
   offset: 0, 0
   index: -1
 image_ui_almanac_plant_food_stat_icon
   rotate: false
-  xy: 674, 1200
+  xy: 1866, 886
   size: 53, 53
   orig: 53, 53
   offset: 0, 0
   index: -1
-image_ui_almanac_plants_damage_icon
+image_ui_almanac_plant_select_pkt
   rotate: false
-  xy: 991, 1439
-  size: 48, 48
-  orig: 48, 48
+  xy: 934, 1404
+  size: 124, 80
+  orig: 124, 80
   offset: 0, 0
   index: -1
 image_ui_almanac_plants_plant_fuelbar
   rotate: false
-  xy: 2030, 1745
+  xy: 1097, 1529
   size: 15, 12
   orig: 15, 12
   offset: 0, 0
   index: -1
-image_ui_almanac_plants_powerarea_icon
-  rotate: false
-  xy: 941, 1461
-  size: 48, 48
-  orig: 48, 48
-  offset: 0, 0
-  index: -1
-image_ui_almanac_plants_range_icon
-  rotate: false
-  xy: 994, 1489
-  size: 48, 48
-  orig: 48, 48
-  offset: 0, 0
-  index: -1
-image_ui_almanac_plants_recharge_icon
-  rotate: false
-  xy: 944, 1511
-  size: 48, 48
-  orig: 48, 48
-  offset: 0, 0
-  index: -1
-image_ui_almanac_plants_toughness_icon
-  rotate: false
-  xy: 994, 1539
-  size: 48, 48
-  orig: 48, 48
-  offset: 0, 0
-  index: -1
-image_ui_almanac_plants_variable_icon
-  rotate: false
-  xy: 995, 1589
-  size: 48, 48
-  orig: 48, 48
-  offset: 0, 0
-  index: -1
 image_ui_almanac_scroll_slider
   rotate: false
-  xy: 676, 1067
+  xy: 2021, 1467
   size: 26, 61
   orig: 26, 61
   offset: 0, 0
   index: -1
 image_ui_almanac_selector_bkgd
   rotate: false
-  xy: 393, 423
+  xy: 1298, 372
   size: 36, 201
   orig: 36, 201
   offset: 0, 0
   index: -1
 image_ui_almanac_sort_ascending_down
   rotate: false
-  xy: 354, 667
+  xy: 1852, 740
   size: 39, 39
   orig: 39, 39
   offset: 0, 0
   index: -1
 image_ui_almanac_sort_ascending_up
   rotate: false
-  xy: 312, 316
+  xy: 1811, 763
   size: 39, 39
   orig: 39, 39
   offset: 0, 0
   index: -1
 image_ui_almanac_sort_button_down
   rotate: false
-  xy: 354, 511
+  xy: 1726, 728
   size: 37, 36
   orig: 37, 36
   offset: 0, 0
   index: -1
 image_ui_almanac_sort_button_up
   rotate: false
-  xy: 354, 549
+  xy: 1975, 737
   size: 37, 36
   orig: 37, 36
   offset: 0, 0
   index: -1
 image_ui_almanac_sort_descending_down
   rotate: false
-  xy: 312, 357
+  xy: 1770, 763
   size: 39, 39
   orig: 39, 39
   offset: 0, 0
   index: -1
 image_ui_almanac_sort_descending_up
   rotate: false
-  xy: 312, 398
+  xy: 890, 1222
   size: 39, 39
   orig: 39, 39
   offset: 0, 0
   index: -1
 image_ui_almanac_stats_screen_nav_arrow_next
   rotate: false
-  xy: 558, 1403
+  xy: 520, 30
   size: 63, 63
   orig: 63, 63
   offset: 0, 0
   index: -1
 image_ui_almanac_stats_screen_nav_arrow_next_down
   rotate: false
-  xy: 549, 1468
+  xy: 650, 116
   size: 63, 63
   orig: 63, 63
   offset: 0, 0
   index: -1
 image_ui_almanac_stats_screen_nav_arrow_previous
   rotate: false
-  xy: 493, 1403
+  xy: 585, 116
   size: 63, 63
   orig: 63, 63
   offset: 0, 0
   index: -1
 image_ui_almanac_stats_screen_nav_arrow_previous_down
   rotate: false
-  xy: 484, 1468
+  xy: 520, 95
   size: 63, 63
   orig: 63, 63
   offset: 0, 0
   index: -1
 image_ui_almanac_tabs_close_tab
   rotate: false
-  xy: 1278, 1752
+  xy: 1614, 1001
   size: 68, 62
   orig: 68, 62
   offset: 0, 0
   index: -1
 image_ui_almanac_tabs_close_tab_down
   rotate: false
-  xy: 1208, 1751
+  xy: 1684, 1065
   size: 68, 62
   orig: 68, 62
   offset: 0, 0
   index: -1
 image_ui_almanac_tabs_plants_active
   rotate: false
-  xy: 341, 1776
+  xy: 821, 576
   size: 80, 106
   orig: 80, 106
   offset: 0, 0
   index: -1
 image_ui_almanac_tabs_plants_down
   rotate: false
-  xy: 256, 1363
+  xy: 822, 684
   size: 80, 80
   orig: 80, 80
   offset: 0, 0
   index: -1
 image_ui_almanac_tabs_upgrades_active
   rotate: false
-  xy: 171, 1018
+  xy: 992, 737
   size: 80, 106
   orig: 80, 106
   offset: 0, 0
   index: -1
 image_ui_almanac_tabs_upgrades_down
   rotate: false
-  xy: 424, 1967
+  xy: 992, 845
   size: 80, 80
   orig: 80, 80
   offset: 0, 0
   index: -1
 image_ui_almanac_tabs_zombies_active
   rotate: false
-  xy: 1, 515
+  xy: 992, 927
   size: 80, 106
   orig: 80, 106
   offset: 0, 0
   index: -1
 image_ui_almanac_tabs_zombies_down
   rotate: false
-  xy: 341, 1884
+  xy: 992, 1035
   size: 80, 80
   orig: 80, 80
   offset: 0, 0
   index: -1
 image_ui_almanac_upgrade_scroll_cta
   rotate: false
-  xy: 312, 439
+  xy: 1256, 32
   size: 40, 266
   orig: 40, 266
   offset: 0, 0
   index: -1
 image_ui_almanac_zombie_seed_pkt
   rotate: false
-  xy: 493, 1339
+  xy: 715, 69
   size: 62, 62
   orig: 62, 62
   offset: 0, 0
   index: -1
 image_ui_almanac_zombies_zombie_fuelbar
   rotate: false
-  xy: 764, 1384
+  xy: 1097, 1543
   size: 15, 12
   orig: 15, 12
   offset: 0, 0
   index: -1
 image_ui_almanac_zombies_zombiespeed_icon
   rotate: false
-  xy: 996, 1639
+  xy: 1964, 775
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 image_ui_almanac_zombies_zombietoughness_icon
   rotate: false
-  xy: 944, 1561
+  xy: 1914, 775
   size: 48, 48
   orig: 48, 48
   offset: 0, 0
   index: -1
 image_ui_cards_almanac_demotion_card
   rotate: false
-  xy: 256, 1605
+  xy: 907, 755
+  size: 83, 442
+  orig: 83, 442
+  offset: 0, 0
+  index: -1
+image_ui_cards_almanac_plant_card
+  rotate: false
+  xy: 567, 502
   size: 83, 442
   orig: 83, 442
   offset: 0, 0
   index: -1
 image_ui_cards_almanac_upgrades_card
   rotate: false
-  xy: 171, 1284
+  xy: 822, 766
   size: 83, 442
   orig: 83, 442
   offset: 0, 0
   index: -1
 image_ui_cards_almanac_zombie_card
   rotate: false
-  xy: 86, 963
+  xy: 737, 734
   size: 83, 442
   orig: 83, 442
   offset: 0, 0
   index: -1
-image_ui_cards_card_table_line_vertical
+image_ui_cards_card_table_frame
   rotate: false
-  xy: 467, 443
-  size: 4, 165
-  orig: 4, 165
+  xy: 1403, 1883
+  size: 164, 164
+  orig: 164, 164
   offset: 0, 0
   index: -1
 image_ui_cards_chooser_chooser_plant_card
   rotate: false
-  xy: 891, 1540
+  xy: 1996, 825
   size: 51, 203
   orig: 51, 203
   offset: 0, 0
   index: -1
 image_ui_cards_chooser_chooser_plant_card_color_cutout
   rotate: false
-  xy: 888, 1435
+  xy: 1917, 825
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-image_ui_cards_claim_medium
+image_ui_cards_joust_tournament_results_card_demotion
   rotate: false
-  xy: 422, 1678
-  size: 70, 94
-  orig: 70, 94
+  xy: 360, 388
+  size: 108, 345
+  orig: 108, 345
   offset: 0, 0
   index: -1
-image_ui_cards_lock_medium
+image_ui_cards_store_promo_ribbon
   rotate: false
-  xy: 423, 1774
-  size: 70, 94
-  orig: 70, 94
+  xy: 1, 861
+  size: 219, 64
+  orig: 219, 64
   offset: 0, 0
   index: -1
-image_ui_cards_lock_medium_gold
+image_ui_cards_store_promo_ribbon_small
   rotate: false
-  xy: 423, 1870
-  size: 70, 94
-  orig: 70, 94
+  xy: 1, 927
+  size: 219, 41
+  orig: 219, 41
   offset: 0, 0
   index: -1
 image_ui_cards_store_store_bundle_card
   rotate: false
-  xy: 1, 765
+  xy: 652, 536
   size: 83, 319
   orig: 83, 319
   offset: 0, 0
   index: -1
 image_ui_cards_store_store_card_if_bundle
   rotate: false
-  xy: 239, 282
+  xy: 1542, 634
   size: 71, 266
   orig: 71, 266
   offset: 0, 0
   index: -1
-image_ui_cards_store_store_card_shine_border
-  rotate: false
-  xy: 942, 1358
-  size: 46, 46
-  orig: 46, 46
-  offset: 0, 0
-  index: -1
 image_ui_cards_store_store_coin_card
   rotate: false
-  xy: 171, 1728
+  xy: 652, 857
   size: 83, 319
   orig: 83, 319
   offset: 0, 0
   index: -1
 image_ui_cards_store_store_comingsoon_card
   rotate: false
-  xy: 86, 1407
+  xy: 651, 181
   size: 83, 319
   orig: 83, 319
   offset: 0, 0
   index: -1
 image_ui_cards_store_store_gem_card
   rotate: false
-  xy: 1, 1086
+  xy: 566, 181
   size: 83, 319
   orig: 83, 319
   offset: 0, 0
   index: -1
 image_ui_cards_store_store_plant_card
   rotate: false
-  xy: 86, 1728
+  xy: 1958, 1142
   size: 83, 319
   orig: 83, 319
   offset: 0, 0
   index: -1
 image_ui_cards_store_store_sprout_card
   rotate: false
-  xy: 1, 1407
+  xy: 1873, 1137
   size: 83, 319
   orig: 83, 319
   offset: 0, 0
   index: -1
 image_ui_cards_store_store_upgrade_card
   rotate: false
-  xy: 1, 1728
+  xy: 1788, 1137
   size: 83, 319
   orig: 83, 319
   offset: 0, 0
   index: -1
-image_ui_claim_small
-  rotate: false
-  xy: 431, 517
-  size: 33, 43
-  orig: 33, 43
-  offset: 0, 0
-  index: -1
 image_ui_coins_stack_0
   rotate: false
-  xy: 562, 1207
+  xy: 1940, 995
   size: 54, 33
   orig: 54, 33
   offset: 0, 0
   index: -1
 image_ui_coins_stack_1
   rotate: false
-  xy: 1201, 1704
+  xy: 589, 952
   size: 61, 45
   orig: 61, 45
   offset: 0, 0
   index: -1
 image_ui_coins_stack_2
   rotate: false
-  xy: 86, 821
+  xy: 736, 211
   size: 81, 62
   orig: 81, 62
   offset: 0, 0
   index: -1
-image_ui_conveyor_conveyor_side
+image_ui_coins_stack_3
   rotate: false
-  xy: 473, 37
-  size: 13, 768
-  orig: 13, 768
+  xy: 508, 999
+  size: 96, 99
+  orig: 96, 99
+  offset: 0, 0
+  index: -1
+image_ui_coins_stack_4
+  rotate: false
+  xy: 222, 835
+  size: 144, 116
+  orig: 144, 116
+  offset: 0, 0
+  index: -1
+image_ui_coins_stack_5
+  rotate: false
+  xy: 1436, 1462
+  size: 158, 137
+  orig: 158, 137
+  offset: 0, 0
+  index: -1
+image_ui_coins_stack_6
+  rotate: false
+  xy: 1234, 1910
+  size: 167, 137
+  orig: 167, 137
+  offset: 0, 0
+  index: -1
+image_ui_coins_stack_7
+  rotate: false
+  xy: 241, 953
+  size: 145, 137
+  orig: 145, 137
   offset: 0, 0
   index: -1
 image_ui_costume_indicator
   rotate: false
-  xy: 616, 1158
+  xy: 1177, 1
   size: 42, 36
   orig: 42, 36
   offset: 0, 0
   index: -1
 image_ui_dialog_asset_dialog_center
   rotate: false
-  xy: 122, 1
+  xy: 714, 513
   size: 21, 21
   orig: 21, 21
   offset: 0, 0
   index: -1
 image_ui_dialog_asset_dialog_center_trough
   rotate: false
-  xy: 99, 1
+  xy: 184, 376
   size: 21, 21
   orig: 21, 21
   offset: 0, 0
   index: -1
+image_ui_dialog_asset_dialogborder
+  rotate: false
+  xy: 1569, 1889
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+image_ui_dialog_asset_dialogborder_bigwavebeach
+  rotate: false
+  xy: 1275, 1563
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+image_ui_dialog_asset_dialogborder_birthdayz
+  rotate: false
+  xy: 1114, 1435
+  size: 159, 153
+  orig: 159, 153
+  offset: 0, 0
+  index: -1
+image_ui_dialog_asset_dialogborder_blackfriday
+  rotate: false
+  xy: 1114, 1590
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+image_ui_dialog_asset_dialogborder_carnival
+  rotate: false
+  xy: 953, 1557
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+image_ui_dialog_asset_dialogborder_fallfestival
+  rotate: false
+  xy: 784, 1541
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+image_ui_dialog_asset_dialogborder_feastivus
+  rotate: false
+  xy: 953, 1717
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+image_ui_dialog_asset_dialogborder_foodfight
+  rotate: false
+  xy: 792, 1701
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+image_ui_dialog_asset_dialogborder_lawnofdoom
+  rotate: false
+  xy: 623, 1654
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+image_ui_dialog_asset_dialogborder_luckothezombie
+  rotate: false
+  xy: 462, 1654
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+image_ui_dialog_asset_dialogborder_lunar_new_year
+  rotate: false
+  xy: 792, 1861
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+image_ui_dialog_asset_dialogborder_mgpwinterevent
+  rotate: false
+  xy: 631, 1814
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+image_ui_dialog_asset_dialogborder_roman
+  rotate: false
+  xy: 470, 1814
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+image_ui_dialog_asset_dialogborder_springening
+  rotate: false
+  xy: 301, 1734
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+image_ui_dialog_asset_dialogborder_tombtangled
+  rotate: false
+  xy: 1395, 1723
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+image_ui_dialog_asset_dialogborder_valenbrainz
+  rotate: false
+  xy: 1234, 1750
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+image_ui_dialog_asset_dialogborder_zcorp
+  rotate: false
+  xy: 1730, 1889
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+image_ui_dialog_asset_dialogborder_summernights
+  rotate: false
+  xy: 1730, 1889
+  size: 159, 158
+  orig: 159, 158
+  offset: 0, 0
+  index: -1
+image_ui_dialog_asset_dialogtexture
+  rotate: false
+  xy: 1062, 1877
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
 image_ui_dialog_asset_inner_bkgd
   rotate: false
-  xy: 496, 1601
+  xy: 1754, 997
   size: 66, 66
   orig: 66, 66
   offset: 0, 0
   index: -1
-image_ui_dialog_asset_thymed_event_panel_gradient_overlay
-  rotate: false
-  xy: 377, 87
-  size: 32, 215
-  orig: 32, 215
-  offset: 0, 0
-  index: -1
-image_ui_dialog_asset_tint_rounded_box_9slice
-  rotate: false
-  xy: 991, 1391
-  size: 46, 46
-  orig: 46, 46
-  offset: 0, 0
-  index: -1
 image_ui_gems_stack_1
   rotate: false
-  xy: 1, 623
+  xy: 736, 275
   size: 81, 62
   orig: 81, 62
   offset: 0, 0
   index: -1
-image_ui_generic_2x_badge
+image_ui_gems_stack_2
   rotate: false
-  xy: 764, 1460
-  size: 60, 90
-  orig: 60, 90
+  xy: 361, 735
+  size: 102, 98
+  orig: 102, 98
   offset: 0, 0
   index: -1
-image_ui_generic_4pxdivider
+image_ui_gems_stack_3
   rotate: false
-  xy: 249, 1014
-  size: 2, 2
-  orig: 2, 2
+  xy: 218, 735
+  size: 141, 98
+  orig: 141, 98
+  offset: 0, 0
+  index: -1
+image_ui_gems_stack_4
+  rotate: false
+  xy: 163, 1
+  size: 157, 119
+  orig: 157, 119
+  offset: 0, 0
+  index: -1
+image_ui_gems_stack_5
+  rotate: false
+  xy: 403, 1531
+  size: 134, 121
+  orig: 134, 121
+  offset: 0, 0
+  index: -1
+image_ui_gems_stack_6
+  rotate: false
+  xy: 259, 1311
+  size: 134, 121
+  orig: 134, 121
   offset: 0, 0
   index: -1
 image_ui_generic_arrow_down_orange
   rotate: false
-  xy: 1516, 1719
+  xy: 1339, 1726
   size: 20, 22
   orig: 20, 22
   offset: 0, 0
   index: -1
 image_ui_generic_arrow_left_green
   rotate: false
-  xy: 1039, 1393
+  xy: 606, 1050
   size: 43, 40
   orig: 43, 40
   offset: 0, 0
   index: -1
 image_ui_generic_arrow_right_green
   rotate: false
-  xy: 1041, 1435
+  xy: 1677, 623
   size: 43, 40
   orig: 43, 40
   offset: 0, 0
   index: -1
 image_ui_generic_arrow_up_green
   rotate: false
-  xy: 1494, 1718
+  xy: 2022, 1721
   size: 20, 22
   orig: 20, 22
   offset: 0, 0
   index: -1
 image_ui_generic_audio_bar
   rotate: false
-  xy: 1048, 1705
+  xy: 1060, 1413
   size: 48, 34
   orig: 48, 34
   offset: 0, 0
   index: -1
 image_ui_generic_audio_fill
   rotate: false
-  xy: 853, 1679
+  xy: 1275, 1724
   size: 35, 24
   orig: 35, 24
   offset: 0, 0
   index: -1
+image_ui_generic_bluebutton
+  rotate: false
+  xy: 674, 1178
+  size: 121, 73
+  orig: 121, 73
+  offset: 0, 0
+  index: -1
+image_ui_generic_bluebutton_down
+  rotate: false
+  xy: 388, 929
+  size: 113, 69
+  orig: 113, 69
+  offset: 0, 0
+  index: -1
+image_ui_generic_bluetab_active
+  rotate: false
+  xy: 1, 489
+  size: 215, 85
+  orig: 215, 85
+  offset: 0, 0
+  index: -1
+image_ui_generic_bluetab_down
+  rotate: false
+  xy: 1, 576
+  size: 215, 64
+  orig: 215, 64
+  offset: 0, 0
+  index: -1
+image_ui_generic_brownbutton
+  rotate: false
+  xy: 388, 1000
+  size: 113, 65
+  orig: 113, 65
+  offset: 0, 0
+  index: -1
+image_ui_generic_brownbutton_down
+  rotate: false
+  xy: 393, 1067
+  size: 113, 65
+  orig: 113, 65
+  offset: 0, 0
+  index: -1
+image_ui_generic_button_generic_currency_down
+  rotate: false
+  xy: 1436, 1601
+  size: 158, 59
+  orig: 158, 59
+  offset: 0, 0
+  index: -1
+image_ui_generic_button_generic_currency_normal
+  rotate: false
+  xy: 1436, 1662
+  size: 158, 59
+  orig: 158, 59
+  offset: 0, 0
+  index: -1
+image_ui_generic_button_generic_ltecurrency
+  rotate: false
+  xy: 1275, 1441
+  size: 158, 59
+  orig: 158, 59
+  offset: 0, 0
+  index: -1
 image_ui_generic_button_hud_minigames_alt_normal
   rotate: false
-  xy: 332, 1084
+  xy: 1389, 732
   size: 75, 72
   orig: 75, 72
   offset: 0, 0
   index: -1
 image_ui_generic_button_hud_minigames_alt_selected
   rotate: false
-  xy: 248, 844
+  xy: 1389, 806
   size: 75, 72
   orig: 75, 72
   offset: 0, 0
   index: -1
 image_ui_generic_button_hud_minigames_locked
   rotate: false
-  xy: 249, 918
+  xy: 1389, 880
   size: 75, 72
   orig: 75, 72
   offset: 0, 0
   index: -1
 image_ui_generic_button_hud_minigames_normal
   rotate: false
-  xy: 253, 992
+  xy: 1389, 954
   size: 75, 72
   orig: 75, 72
   offset: 0, 0
   index: -1
 image_ui_generic_button_hud_minigames_selected
   rotate: false
-  xy: 253, 1066
+  xy: 1389, 1028
   size: 75, 72
   orig: 75, 72
   offset: 0, 0
   index: -1
+image_ui_generic_buttons_coin_buy_normal
+  rotate: false
+  xy: 1, 281
+  size: 181, 57
+  orig: 181, 57
+  offset: 0, 0
+  index: -1
+image_ui_generic_buttons_coin_buy_selected
+  rotate: false
+  xy: 1, 340
+  size: 181, 57
+  orig: 181, 57
+  offset: 0, 0
+  index: -1
 image_ui_generic_buttons_hud_quests_locked
   rotate: false
-  xy: 338, 1384
+  xy: 1215, 345
   size: 76, 72
   orig: 76, 72
   offset: 0, 0
   index: -1
 image_ui_generic_buttons_hud_quests_normal
   rotate: false
-  xy: 255, 1140
+  xy: 1389, 1102
   size: 75, 72
   orig: 75, 72
   offset: 0, 0
   index: -1
 image_ui_generic_buttons_hud_quests_selected
   rotate: false
-  xy: 333, 1158
+  xy: 1411, 1176
   size: 75, 72
   orig: 75, 72
   offset: 0, 0
   index: -1
 image_ui_generic_buttons_hud_zg_locked
   rotate: false
-  xy: 256, 1214
+  xy: 1411, 1250
   size: 75, 72
   orig: 75, 72
   offset: 0, 0
   index: -1
 image_ui_generic_buttons_hud_zg_normal
   rotate: false
-  xy: 1913, 1897
+  xy: 1334, 1205
   size: 75, 72
   orig: 75, 72
   offset: 0, 0
   index: -1
 image_ui_generic_buttons_hud_zg_selected
   rotate: false
-  xy: 1836, 1897
+  xy: 1290, 1279
   size: 75, 72
   orig: 75, 72
   offset: 0, 0
   index: -1
+image_ui_generic_buttons_premium_normal
+  rotate: false
+  xy: 1275, 1502
+  size: 158, 59
+  orig: 158, 59
+  offset: 0, 0
+  index: -1
+image_ui_generic_buttons_premium_selected
+  rotate: false
+  xy: 1, 23
+  size: 158, 59
+  orig: 158, 59
+  offset: 0, 0
+  index: -1
 image_ui_generic_check_mark_anim_check_mark_anim_102x102
   rotate: false
-  xy: 888, 1487
+  xy: 1864, 833
   size: 51, 51
   orig: 51, 51
   offset: 0, 0
   index: -1
-image_ui_generic_check_mark_anim_check_mark_anim_99x80
-  rotate: false
-  xy: 944, 1703
-  size: 50, 40
-  orig: 50, 40
-  offset: 0, 0
-  index: -1
-image_ui_generic_check_mark_sm
-  rotate: false
-  xy: 1045, 1569
-  size: 45, 43
-  orig: 45, 43
-  offset: 0, 0
-  index: -1
 image_ui_generic_close_btn
   rotate: false
-  xy: 1138, 1751
+  xy: 1614, 1065
   size: 68, 62
   orig: 68, 62
   offset: 0, 0
   index: -1
 image_ui_generic_close_circle
   rotate: false
-  xy: 616, 1256
+  xy: 1678, 872
   size: 61, 61
   orig: 61, 61
   offset: 0, 0
   index: -1
 image_ui_generic_close_circle_down
   rotate: false
-  xy: 553, 1270
+  xy: 1615, 868
   size: 61, 61
   orig: 61, 61
   offset: 0, 0
   index: -1
 image_ui_generic_close_down
   rotate: false
-  xy: 422, 1614
+  xy: 1543, 918
   size: 68, 62
   orig: 68, 62
   offset: 0, 0
   index: -1
 image_ui_generic_coin_icon_small
   rotate: false
-  xy: 692, 1168
+  xy: 1763, 683
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
   index: -1
+image_ui_generic_content_well
+  rotate: false
+  xy: 804, 1411
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
 image_ui_generic_counter_bg
   rotate: false
-  xy: 562, 1170
+  xy: 1060, 1449
   size: 52, 35
   orig: 52, 35
   offset: 0, 0
   index: -1
-image_ui_generic_edge_gradient
+image_ui_generic_disabledbutton
   rotate: false
-  xy: 1090, 1477
-  size: 32, 25
-  orig: 32, 25
+  xy: 393, 1134
+  size: 113, 65
+  orig: 113, 65
   offset: 0, 0
   index: -1
-image_ui_generic_edge_gradient_bottom
+image_ui_generic_disabledbutton_down
   rotate: false
-  xy: 239, 30
-  size: 69, 32
-  orig: 69, 32
-  offset: 0, 0
-  index: -1
-image_ui_generic_edge_gradient_left
-  rotate: false
-  xy: 1090, 1504
-  size: 32, 25
-  orig: 32, 25
-  offset: 0, 0
-  index: -1
-image_ui_generic_edge_gradient_top
-  rotate: false
-  xy: 416, 1347
-  size: 69, 32
-  orig: 69, 32
+  xy: 393, 1201
+  size: 113, 65
+  orig: 113, 65
   offset: 0, 0
   index: -1
 image_ui_generic_gem_icon_small
   rotate: false
-  xy: 1093, 1599
+  xy: 779, 88
   size: 33, 43
   orig: 33, 43
   offset: 0, 0
   index: -1
+image_ui_generic_gemsbuybutton
+  rotate: false
+  xy: 470, 420
+  size: 94, 60
+  orig: 94, 60
+  offset: 0, 0
+  index: -1
+image_ui_generic_gemsbuybutton_down
+  rotate: false
+  xy: 470, 482
+  size: 94, 60
+  orig: 94, 60
+  offset: 0, 0
+  index: -1
+image_ui_generic_greenbutton
+  rotate: false
+  xy: 395, 1268
+  size: 113, 65
+  orig: 113, 65
+  offset: 0, 0
+  index: -1
+image_ui_generic_greenbutton_down
+  rotate: false
+  xy: 395, 1335
+  size: 113, 65
+  orig: 113, 65
+  offset: 0, 0
+  index: -1
+image_ui_generic_greenbuybutton
+  rotate: false
+  xy: 403, 1402
+  size: 113, 49
+  orig: 113, 49
+  offset: 0, 0
+  index: -1
+image_ui_generic_greenbuybutton_down
+  rotate: false
+  xy: 1114, 1757
+  size: 113, 51
+  orig: 113, 51
+  offset: 0, 0
+  index: -1
+image_ui_generic_greentab_active
+  rotate: false
+  xy: 1, 642
+  size: 215, 85
+  orig: 215, 85
+  offset: 0, 0
+  index: -1
+image_ui_generic_greentab_down
+  rotate: false
+  xy: 1, 729
+  size: 215, 64
+  orig: 215, 64
+  offset: 0, 0
+  index: -1
+image_ui_generic_guaranteed_bg
+  rotate: false
+  xy: 1, 1
+  size: 98, 20
+  orig: 98, 20
+  offset: 0, 0
+  index: -1
 image_ui_generic_info_button_down
   rotate: false
-  xy: 1458, 1704
+  xy: 1410, 433
   size: 34, 36
   orig: 34, 36
   offset: 0, 0
   index: -1
 image_ui_generic_info_button_up
   rotate: false
-  xy: 1422, 1704
+  xy: 1373, 383
   size: 34, 36
   orig: 34, 36
   offset: 0, 0
   index: -1
 image_ui_generic_jalapeno_difficulty_icon
   rotate: false
-  xy: 791, 1119
+  xy: 1795, 670
   size: 27, 43
   orig: 27, 43
   offset: 0, 0
   index: -1
 image_ui_generic_jalapeno_difficulty_icon_bg
   rotate: false
-  xy: 762, 1119
+  xy: 510, 1270
   size: 27, 43
   orig: 27, 43
   offset: 0, 0
   index: -1
 image_ui_generic_leaf_backdrop
   rotate: false
-  xy: 783, 1743
+  xy: 1543, 1056
   size: 69, 74
   orig: 69, 74
   offset: 0, 0
   index: -1
 image_ui_generic_mint_icon_small
   rotate: false
-  xy: 660, 1164
+  xy: 1722, 623
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
   index: -1
 image_ui_generic_navdot
   rotate: false
-  xy: 733, 1093
+  xy: 510, 1315
   size: 27, 27
   orig: 27, 27
   offset: 0, 0
   index: -1
 image_ui_generic_navdot_fill
   rotate: false
-  xy: 704, 1109
+  xy: 510, 1344
   size: 27, 27
   orig: 27, 27
   offset: 0, 0
   index: -1
 image_ui_generic_navdot_fill_flat
   rotate: false
-  xy: 733, 1122
+  xy: 510, 1373
   size: 27, 27
   orig: 27, 27
   offset: 0, 0
   index: -1
 image_ui_generic_popup_9slice
   rotate: false
-  xy: 1044, 1523
+  xy: 606, 1138
   size: 44, 44
   orig: 44, 44
   offset: 0, 0
   index: -1
 image_ui_generic_popup_caret
   rotate: false
-  xy: 1128, 1610
+  xy: 1367, 1279
   size: 31, 28
   orig: 31, 28
   offset: 0, 0
   index: -1
+image_ui_generic_purplebutton
+  rotate: false
+  xy: 1114, 1810
+  size: 113, 65
+  orig: 113, 65
+  offset: 0, 0
+  index: -1
+image_ui_generic_purplebutton_down
+  rotate: false
+  xy: 259, 1244
+  size: 113, 65
+  orig: 113, 65
+  offset: 0, 0
+  index: -1
 image_ui_generic_pvz2_icon_timer
   rotate: false
-  xy: 418, 1458
+  xy: 1890, 1070
   size: 64, 65
   orig: 64, 65
   offset: 0, 0
   index: -1
 image_ui_generic_radio_down
   rotate: false
-  xy: 810, 1297
+  xy: 1804, 863
   size: 58, 58
   orig: 58, 58
   offset: 0, 0
   index: -1
 image_ui_generic_radio_up
   rotate: false
-  xy: 826, 1357
+  xy: 1728, 1392
   size: 58, 58
   orig: 58, 58
   offset: 0, 0
   index: -1
+image_ui_generic_sm_purple_btn_down
+  rotate: false
+  xy: 804, 1210
+  size: 84, 51
+  orig: 84, 51
+  offset: 0, 0
+  index: -1
+image_ui_generic_sm_purple_btn_normal
+  rotate: false
+  xy: 503, 946
+  size: 84, 51
+  orig: 84, 51
+  offset: 0, 0
+  index: -1
 image_ui_generic_star_icon
   rotate: false
-  xy: 988, 1974
+  xy: 819, 177
   size: 77, 73
   orig: 77, 73
   offset: 0, 0
   index: -1
+image_ui_generic_tantab_down
+  rotate: false
+  xy: 1, 795
+  size: 215, 64
+  orig: 215, 64
+  offset: 0, 0
+  index: -1
 image_ui_generic_timer_label
   rotate: false
-  xy: 698, 1552
+  xy: 1488, 1285
   size: 65, 37
   orig: 65, 37
   offset: 0, 0
   index: -1
+image_ui_generic_timer_ribbon_red
+  rotate: false
+  xy: 218, 663
+  size: 140, 34
+  orig: 140, 34
+  offset: 0, 0
+  index: -1
 image_ui_generic_value_badge_1
   rotate: false
-  xy: 909, 1974
+  xy: 1099, 1199
   size: 77, 73
   orig: 77, 73
   offset: 0, 0
   index: -1
 image_ui_generic_value_badge_2
   rotate: false
-  xy: 830, 1974
+  xy: 984, 587
   size: 77, 73
   orig: 77, 73
   offset: 0, 0
   index: -1
 image_ui_generic_value_badge_3
   rotate: false
-  xy: 256, 1288
+  xy: 985, 662
   size: 77, 73
   orig: 77, 73
   offset: 0, 0
   index: -1
+image_ui_generic_vtb
+  rotate: false
+  xy: 1, 970
+  size: 229, 32
+  orig: 229, 32
+  offset: 0, 0
+  index: -1
 image_ui_generic_xp_progress_bar
   rotate: false
-  xy: 934, 1157
+  xy: 508, 1209
   size: 20, 17
   orig: 20, 17
   offset: 0, 0
   index: -1
 image_ui_generic_xp_progress_bar_fill_fuschia
   rotate: false
-  xy: 849, 1116
+  xy: 779, 69
   size: 20, 17
   orig: 20, 17
   offset: 0, 0
   index: -1
 image_ui_generic_xp_progress_bar_fill_green
   rotate: false
-  xy: 2027, 1688
+  xy: 403, 1655
   size: 20, 17
   orig: 20, 17
   offset: 0, 0
   index: -1
 image_ui_generic_xp_progress_bar_fill_teal
   rotate: false
-  xy: 2027, 1707
+  xy: 1389, 1186
   size: 20, 17
   orig: 20, 17
   offset: 0, 0
   index: -1
 image_ui_generic_xp_progress_bar_fill_yellow
   rotate: false
-  xy: 2027, 1726
+  xy: 746, 1541
   size: 20, 17
   orig: 20, 17
   offset: 0, 0
   index: -1
 image_ui_generic_xp_progress_icon_green
   rotate: false
-  xy: 2030, 1759
+  xy: 425, 1654
   size: 17, 18
   orig: 17, 18
+  offset: 0, 0
+  index: -1
+image_ui_generic_xp_progress_icon_green_large
+  rotate: false
+  xy: 674, 1253
+  size: 128, 142
+  orig: 128, 142
   offset: 0, 0
   index: -1
 image_ui_generic_xp_progress_icon_yellow
   rotate: false
-  xy: 2030, 1779
+  xy: 1416, 1396
   size: 17, 18
   orig: 17, 18
   offset: 0, 0
   index: -1
+image_ui_generic_xp_progress_icon_yellow_large
+  rotate: false
+  xy: 674, 1397
+  size: 128, 142
+  orig: 128, 142
+  offset: 0, 0
+  index: -1
 image_ui_hud_almanacbutton_buttons_hud_almanac_normal
   rotate: false
-  xy: 330, 936
+  xy: 1377, 584
   size: 75, 72
   orig: 75, 72
   offset: 0, 0
   index: -1
 image_ui_hud_almanacbutton_buttons_hud_almanac_selected
   rotate: false
-  xy: 330, 1010
+  xy: 1389, 658
   size: 75, 72
   orig: 75, 72
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_beach_down
   rotate: false
-  xy: 340, 1458
+  xy: 1137, 341
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_beach_up
   rotate: false
-  xy: 341, 1536
+  xy: 1059, 393
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_birthdayz_down
   rotate: false
-  xy: 1142, 1892
+  xy: 981, 431
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_birthdayz_up
   rotate: false
-  xy: 1064, 1892
+  xy: 900, 190
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_carnival_down
   rotate: false
-  xy: 986, 1896
+  xy: 900, 268
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_carnival_up
   rotate: false
-  xy: 908, 1896
+  xy: 901, 346
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_feastivus_down
   rotate: false
-  xy: 830, 1896
+  xy: 902, 424
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_feastivus_up
   rotate: false
-  xy: 161, 4
+  xy: 903, 502
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_foodfight_down
   rotate: false
-  xy: 161, 82
+  xy: 1299, 577
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_foodfight_up
   rotate: false
-  xy: 161, 160
+  xy: 1234, 655
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_harvestfestival_down
   rotate: false
-  xy: 161, 238
+  xy: 1234, 733
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_harvestfestival_up
   rotate: false
-  xy: 161, 316
+  xy: 1234, 811
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_lawnofdoom_down
   rotate: false
-  xy: 161, 394
+  xy: 1234, 889
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_lawnofdoom_up
   rotate: false
-  xy: 161, 472
+  xy: 1234, 967
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_luckothezombie_down
   rotate: false
-  xy: 162, 550
+  xy: 1234, 1045
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_luckothezombie_up
   rotate: false
-  xy: 163, 628
+  xy: 1234, 1123
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_lunarzooyear_down
   rotate: false
-  xy: 164, 706
+  xy: 1178, 1201
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_lunarzooyear_up
   rotate: false
-  xy: 169, 784
+  xy: 1134, 1279
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_mgpwinterevent_down
   rotate: false
-  xy: 83, 41
+  xy: 1134, 1357
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_mgpwinterevent_up
   rotate: false
-  xy: 83, 119
+  xy: 1056, 1326
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_potw_down
   rotate: false
-  xy: 83, 197
+  xy: 468, 160
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_potw_up
   rotate: false
-  xy: 83, 275
+  xy: 1958, 1064
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_roman_down
   rotate: false
-  xy: 83, 353
+  xy: 892, 99
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_roman_up
   rotate: false
-  xy: 83, 431
+  xy: 1218, 419
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_sportzball_down
   rotate: false
-  xy: 83, 509
+  xy: 1140, 419
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_sportzball_up
   rotate: false
-  xy: 84, 587
+  xy: 1062, 471
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_springening_down
   rotate: false
-  xy: 170, 862
+  xy: 984, 509
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_springening_up
   rotate: false
-  xy: 85, 665
+  xy: 1220, 497
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_summernights_down
   rotate: false
-  xy: 171, 940
+  xy: 1221, 575
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_summernights_up
   rotate: false
-  xy: 86, 743
+  xy: 1142, 497
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_tieredspend_coins
   rotate: false
-  xy: 1927, 1971
+  xy: 1143, 575
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_tieredspend_coins_down
   rotate: false
-  xy: 1849, 1971
+  xy: 1156, 653
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_tieredspend_gems
   rotate: false
-  xy: 1771, 1971
+  xy: 1156, 731
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_tieredspend_gems_down
   rotate: false
-  xy: 1693, 1971
+  xy: 1156, 809
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_tieredspend_mints
   rotate: false
-  xy: 1615, 1971
+  xy: 1156, 887
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_tieredspend_mints_down
   rotate: false
-  xy: 1537, 1971
+  xy: 1156, 965
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_tombtangler_down
   rotate: false
-  xy: 1459, 1971
+  xy: 1156, 1043
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_tombtangler_up
   rotate: false
-  xy: 1381, 1971
+  xy: 1156, 1121
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_trigger_down
   rotate: false
-  xy: 256, 1527
+  xy: 736, 422
   size: 82, 76
   orig: 82, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_trigger_up
   rotate: false
-  xy: 171, 1206
+  xy: 737, 500
   size: 82, 76
   orig: 82, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_valenbrainz_down
   rotate: false
-  xy: 1303, 1971
+  xy: 814, 99
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_valenbrainz_up
   rotate: false
-  xy: 1225, 1971
+  xy: 736, 133
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_zcorp_down
   rotate: false
-  xy: 86, 885
+  xy: 737, 578
   size: 82, 76
   orig: 82, 76
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_event_icon_zcorp_up
   rotate: false
-  xy: 1, 687
+  xy: 737, 656
   size: 82, 76
   orig: 82, 76
   offset: 0, 0
   index: -1
-image_ui_hud_eventbutton_hud_pulse_nobutton_hud_pulse_nobutton_130x130
-  rotate: false
-  xy: 564, 1534
-  size: 65, 65
-  orig: 65, 65
-  offset: 0, 0
-  index: -1
 image_ui_hud_eventbutton_hud_pulse_nobutton_hud_pulse_nobutton_23x23
   rotate: false
-  xy: 604, 1242
+  xy: 1556, 1726
   size: 12, 12
   orig: 12, 12
   offset: 0, 0
   index: -1
 image_ui_hud_eventbutton_hud_pulse_nobutton_hud_pulse_nobutton_28x28
   rotate: false
-  xy: 145, 8
+  xy: 1543, 902
   size: 14, 14
   orig: 14, 14
   offset: 0, 0
   index: -1
+image_ui_hud_eventshop_buttons_hud_event_shop_normal
+  rotate: false
+  xy: 466, 835
+  size: 96, 92
+  orig: 96, 92
+  offset: 0, 0
+  index: -1
+image_ui_hud_eventshop_buttons_hud_event_shop_selected
+  rotate: false
+  xy: 508, 1100
+  size: 96, 92
+  orig: 96, 92
+  offset: 0, 0
+  index: -1
 image_ui_hud_ingame_2x
   rotate: false
-  xy: 560, 1014
+  xy: 1707, 1129
   size: 70, 70
   orig: 70, 70
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_2x_selected
   rotate: false
-  xy: 1759, 1894
+  xy: 1057, 316
   size: 75, 75
   orig: 75, 75
   offset: 0, 0
   index: -1
-image_ui_hud_ingame_challenge_apply_condition_icon
+image_ui_hud_ingame_alert_ring
   rotate: false
-  xy: 354, 587
-  size: 37, 37
-  orig: 37, 37
+  xy: 241, 1092
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+image_ui_hud_ingame_background_3slice
+  rotate: false
+  xy: 953, 1893
+  size: 84, 42
+  orig: 84, 42
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_challenge_background
   rotate: false
-  xy: 353, 390
+  xy: 1336, 383
   size: 35, 42
   orig: 35, 42
   offset: 0, 0
   index: -1
-image_ui_hud_ingame_challenge_failed
-  rotate: false
-  xy: 733, 1151
-  size: 27, 28
-  orig: 27, 28
-  offset: 0, 0
-  index: -1
-image_ui_hud_ingame_challenge_general_progress
-  rotate: false
-  xy: 395, 628
-  size: 37, 37
-  orig: 37, 37
-  offset: 0, 0
-  index: -1
-image_ui_hud_ingame_challenge_plant_count_icon
-  rotate: false
-  xy: 676, 1028
-  size: 26, 37
-  orig: 26, 37
-  offset: 0, 0
-  index: -1
-image_ui_hud_ingame_challenge_plant_lost_icon
-  rotate: false
-  xy: 934, 1176
-  size: 29, 36
-  orig: 29, 36
-  offset: 0, 0
-  index: -1
-image_ui_hud_ingame_challenge_success
-  rotate: false
-  xy: 704, 1138
-  size: 27, 28
-  orig: 27, 28
-  offset: 0, 0
-  index: -1
-image_ui_hud_ingame_challenge_sun_produced_icon
-  rotate: false
-  xy: 354, 434
-  size: 35, 37
-  orig: 35, 37
-  offset: 0, 0
-  index: -1
-image_ui_hud_ingame_challenge_sun_spent_icon
-  rotate: false
-  xy: 1386, 1705
-  size: 34, 35
-  orig: 34, 35
-  offset: 0, 0
-  index: -1
-image_ui_hud_ingame_challenge_sun_timer_icon
-  rotate: false
-  xy: 354, 473
-  size: 36, 36
-  orig: 36, 36
-  offset: 0, 0
-  index: -1
-image_ui_hud_ingame_challenge_zombie_head
-  rotate: false
-  xy: 852, 1640
-  size: 37, 37
-  orig: 37, 37
-  offset: 0, 0
-  index: -1
-image_ui_hud_ingame_challenge_zombie_tick
-  rotate: false
-  xy: 804, 1298
-  size: 4, 21
-  orig: 4, 21
-  offset: 0, 0
-  index: -1
 image_ui_hud_ingame_coin
   rotate: false
-  xy: 490, 1278
+  xy: 1741, 936
   size: 61, 59
   orig: 61, 59
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_coin_bg
   rotate: false
-  xy: 632, 1459
+  xy: 1824, 1071
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_coin_buy
   rotate: false
-  xy: 870, 1248
+  xy: 1824, 1012
   size: 57, 57
   orig: 57, 57
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_coin_buy_down
   rotate: false
-  xy: 1990, 1852
+  xy: 1803, 804
   size: 57, 57
   orig: 57, 57
   offset: 0, 0
   index: -1
+image_ui_hud_ingame_demo
+  rotate: false
+  xy: 1, 1806
+  size: 298, 86
+  orig: 298, 86
+  offset: 0, 0
+  index: -1
 image_ui_hud_ingame_gem
   rotate: false
-  xy: 407, 949
+  xy: 395, 1897
   size: 73, 56
   orig: 73, 56
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_notification_icon
   rotate: false
-  xy: 1990, 1911
+  xy: 403, 1674
   size: 57, 58
   orig: 57, 58
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_pause_button
   rotate: false
-  xy: 558, 1086
+  xy: 1635, 1129
   size: 70, 70
   orig: 70, 70
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_pause_button_down
   rotate: false
-  xy: 239, 64
+  xy: 1563, 1132
   size: 70, 70
   orig: 70, 70
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_perk_level_value_bg
   rotate: false
-  xy: 622, 952
+  xy: 1615, 619
   size: 60, 60
   orig: 60, 60
   offset: 0, 0
   index: -1
+image_ui_hud_ingame_plantfood_bank
+  rotate: false
+  xy: 1, 399
+  size: 206, 88
+  orig: 206, 88
+  offset: 0, 0
+  index: -1
 image_ui_hud_ingame_plantfood_bank_collect
   rotate: false
-  xy: 256, 1445
+  xy: 992, 1117
   size: 80, 80
   orig: 80, 80
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_plantfood_bank_filled_slot
   rotate: false
-  xy: 1809, 1867
+  xy: 1312, 1723
   size: 25, 25
   orig: 25, 25
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_plantfood_bank_filling_slot
   rotate: false
-  xy: 1169, 1624
+  xy: 760, 1982
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_plantfood_button
   rotate: false
-  xy: 729, 1181
+  xy: 1921, 877
   size: 53, 56
   orig: 53, 56
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_plantfood_button_down
   rotate: false
-  xy: 684, 1318
+  xy: 1678, 935
   size: 61, 64
   orig: 61, 64
   offset: 0, 0
   index: -1
+image_ui_hud_ingame_plantfood_buy_confirmation
+  rotate: false
+  xy: 804, 1263
+  size: 125, 146
+  orig: 125, 146
+  offset: 0, 0
+  index: -1
 image_ui_hud_ingame_progress_bar_upgrade_arrow_green
   rotate: false
-  xy: 1307, 1707
+  xy: 1254, 300
   size: 41, 43
   orig: 41, 43
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_progress_bar_upgrade_arrow_yellow
   rotate: false
-  xy: 1264, 1706
+  xy: 1211, 296
   size: 41, 43
   orig: 41, 43
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_progress_bar_upgrade_background
   rotate: false
-  xy: 390, 373
+  xy: 1373, 421
   size: 35, 48
   orig: 35, 48
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_progress_bar_upgrade_background_sharp
   rotate: false
-  xy: 1096, 1644
+  xy: 1336, 427
   size: 35, 48
   orig: 35, 48
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_progress_bar_upgrade_green_fill
   rotate: false
-  xy: 614, 1486
+  xy: 374, 1263
   size: 14, 46
   orig: 14, 46
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_progress_bar_upgrade_green_fill_sharp
   rotate: false
-  xy: 436, 658
+  xy: 1336, 477
   size: 35, 48
   orig: 35, 48
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_progress_bar_upgrade_yellow_fill
   rotate: false
-  xy: 814, 1907
+  xy: 715, 133
   size: 14, 46
   orig: 14, 46
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_progress_bar_upgrade_yellow_fill_sharp
   rotate: false
-  xy: 2012, 1623
+  xy: 1336, 527
   size: 35, 48
   orig: 35, 48
   offset: 0, 0
   index: -1
+image_ui_hud_ingame_progress_meter
+  rotate: false
+  xy: 1, 1711
+  size: 273, 33
+  orig: 273, 33
+  offset: 0, 0
+  index: -1
 image_ui_hud_ingame_progress_meter_fill
   rotate: false
-  xy: 877, 1145
+  xy: 722, 1541
   size: 22, 17
   orig: 22, 17
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_progress_meter_fill_zomboss_bonus
   rotate: false
-  xy: 762, 1100
+  xy: 698, 1541
   size: 22, 17
   orig: 22, 17
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_progress_meter_flag_default
   rotate: false
-  xy: 852, 1616
+  xy: 1557, 1367
   size: 27, 22
   orig: 27, 22
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_progress_meter_flag_pole
   rotate: false
-  xy: 783, 1838
+  xy: 508, 1228
   size: 29, 38
   orig: 29, 38
   offset: 0, 0
   index: -1
-image_ui_hud_ingame_progress_meter_zombiehead
-  rotate: false
-  xy: 630, 1111
-  size: 42, 45
-  orig: 42, 45
-  offset: 0, 0
-  index: -1
 image_ui_hud_ingame_progress_meter_zomboss_fill
   rotate: false
-  xy: 783, 1819
+  xy: 674, 1541
   size: 22, 17
   orig: 22, 17
   offset: 0, 0
   index: -1
-image_ui_hud_ingame_progress_meter_zomboss_head
-  rotate: false
-  xy: 942, 1406
-  size: 47, 53
-  orig: 47, 53
-  offset: 0, 0
-  index: -1
 image_ui_hud_ingame_progress_meter_zomboss_notch
   rotate: false
-  xy: 807, 1819
+  xy: 797, 1234
   size: 5, 17
   orig: 5, 17
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_recycle_shovel_button
   rotate: false
-  xy: 668, 1968
+  xy: 904, 674
   size: 79, 79
   orig: 79, 79
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_recycle_shovel_button_down
   rotate: false
-  xy: 341, 1614
+  xy: 819, 252
   size: 79, 79
   orig: 79, 79
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_score_meter_bg
   rotate: false
-  xy: 560, 952
+  xy: 1615, 681
   size: 60, 60
   orig: 60, 60
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_score_meter_bg_text
   rotate: false
-  xy: 853, 1705
+  xy: 1725, 690
   size: 36, 36
   orig: 36, 36
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_score_meter_fill
   rotate: false
-  xy: 829, 1553
+  xy: 1615, 743
   size: 60, 60
   orig: 60, 60
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_score_meter_highlight
   rotate: false
-  xy: 767, 1553
+  xy: 1741, 811
   size: 60, 60
   orig: 60, 60
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_shovel_button
   rotate: false
-  xy: 587, 1968
+  xy: 819, 333
   size: 79, 79
   orig: 79, 79
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_shovel_button_down
   rotate: false
-  xy: 341, 1695
+  xy: 820, 414
   size: 79, 79
   orig: 79, 79
   offset: 0, 0
   index: -1
+image_ui_hud_ingame_shovel_icon
+  rotate: false
+  xy: 403, 1453
+  size: 133, 76
+  orig: 133, 76
+  offset: 0, 0
+  index: -1
+image_ui_hud_ingame_sprout_icon
+  rotate: false
+  xy: 945, 1486
+  size: 150, 69
+  orig: 150, 69
+  offset: 0, 0
+  index: -1
+image_ui_hud_ingame_sprout_icon_down
+  rotate: false
+  xy: 1435, 1391
+  size: 150, 69
+  orig: 150, 69
+  offset: 0, 0
+  index: -1
+image_ui_hud_ingame_sprout_icon_noplus
+  rotate: false
+  xy: 1891, 1894
+  size: 150, 69
+  orig: 150, 69
+  offset: 0, 0
+  index: -1
 image_ui_hud_ingame_store_red_dot
   rotate: false
-  xy: 1350, 1704
+  xy: 1410, 471
   size: 34, 36
   orig: 34, 36
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_sun
   rotate: false
-  xy: 239, 136
+  xy: 1707, 1201
   size: 70, 71
   orig: 70, 71
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_sun_down
   rotate: false
-  xy: 239, 209
+  xy: 1635, 1201
   size: 70, 71
   orig: 70, 71
   offset: 0, 0
   index: -1
-image_ui_hud_ingame_ticket_icon
-  rotate: false
-  xy: 698, 1486
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
 image_ui_hud_ingame_viewzombies_button
   rotate: false
-  xy: 1955, 1673
+  xy: 1542, 562
   size: 70, 70
   orig: 70, 70
   offset: 0, 0
   index: -1
 image_ui_hud_ingame_viewzombies_button_down
   rotate: false
-  xy: 486, 1086
+  xy: 1563, 1204
   size: 70, 70
   orig: 70, 70
   offset: 0, 0
   index: -1
-image_ui_hud_ingame_zomboss_health_meter_skull_icon
+image_ui_hud_ingame_zomboss_progress_meter
   rotate: false
-  xy: 346, 282
-  size: 24, 20
-  orig: 24, 20
+  xy: 470, 2014
+  size: 313, 33
+  orig: 313, 33
+  offset: 0, 0
+  index: -1
+image_ui_hud_plantboost_buttons_hud_plant_boost_normal
+  rotate: false
+  xy: 468, 238
+  size: 92, 89
+  orig: 92, 89
+  offset: 0, 0
+  index: -1
+image_ui_hud_plantboost_buttons_hud_plant_boost_selected
+  rotate: false
+  xy: 470, 329
+  size: 92, 89
+  orig: 92, 89
   offset: 0, 0
   index: -1
 image_ui_hud_settingsbutton_buttons_hud_settings_normal
   rotate: false
-  xy: 410, 1158
+  xy: 1466, 902
   size: 75, 72
   orig: 75, 72
   offset: 0, 0
   index: -1
 image_ui_hud_settingsbutton_buttons_hud_settings_selected
   rotate: false
-  xy: 409, 1084
+  xy: 1466, 976
   size: 75, 72
   orig: 75, 72
   offset: 0, 0
   index: -1
-image_ui_if_bundle_2x_multiplier_anim_2x_multiplier_anim_89x81
+image_ui_hud_tasklist_buttons_hud_task_list_normal
   rotate: false
-  xy: 1046, 1614
-  size: 45, 41
-  orig: 45, 41
+  xy: 674, 1560
+  size: 96, 92
+  orig: 96, 92
+  offset: 0, 0
+  index: -1
+image_ui_hud_tasklist_buttons_hud_task_list_selected
+  rotate: false
+  xy: 368, 835
+  size: 96, 92
+  orig: 96, 92
   offset: 0, 0
   index: -1
 image_ui_if_bundle_if_active_down
   rotate: false
-  xy: 341, 1966
+  xy: 736, 339
   size: 81, 81
   orig: 81, 81
   offset: 0, 0
   index: -1
+image_ui_if_bundle_reward1_bg
+  rotate: false
+  xy: 1891, 1965
+  size: 155, 82
+  orig: 155, 82
+  offset: 0, 0
+  index: -1
+image_ui_if_bundle_reward2_bg
+  rotate: false
+  xy: 953, 1937
+  size: 102, 82
+  orig: 102, 82
+  offset: 0, 0
+  index: -1
+image_ui_if_bundle_reward3_bg
+  rotate: false
+  xy: 931, 1199
+  size: 84, 78
+  orig: 84, 78
+  offset: 0, 0
+  index: -1
 image_ui_if_bundle_reward4_bg
   rotate: false
-  xy: 171, 1126
+  xy: 1017, 1199
   size: 80, 78
   orig: 80, 78
   offset: 0, 0
   index: -1
 image_ui_if_bundle_reward5_bg
   rotate: false
-  xy: 506, 1968
+  xy: 821, 495
   size: 79, 79
   orig: 79, 79
   offset: 0, 0
   index: -1
+image_ui_if_bundle_reward_multiplier_bg
+  rotate: false
+  xy: 1, 84
+  size: 160, 36
+  orig: 160, 36
+  offset: 0, 0
+  index: -1
 image_ui_leveling_progress_bg
   rotate: false
-  xy: 1169, 1656
+  xy: 1211, 264
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
   index: -1
 image_ui_leveling_upgrade_badge_upgrade_badge_121x145
   rotate: false
-  xy: 621, 1319
+  xy: 1212, 1360
   size: 61, 73
   orig: 61, 73
   offset: 0, 0
   index: -1
 image_ui_leveling_upgrade_badge_upgrade_badge_42x40
   rotate: false
-  xy: 76, 1
+  xy: 101, 1
   size: 21, 20
   orig: 21, 20
   offset: 0, 0
   index: -1
-image_ui_leveling_upgrade_badge_upgrade_badge_68x92
-  rotate: false
-  xy: 353, 304
-  size: 34, 46
-  orig: 34, 46
-  offset: 0, 0
-  index: -1
-image_ui_leveling_upgrade_badge_upgrade_badge_68x92_2
-  rotate: false
-  xy: 1133, 1640
-  size: 34, 46
-  orig: 34, 46
-  offset: 0, 0
-  index: -1
 image_ui_leveling_upgrade_badge_upgrade_badge_84x84
   rotate: false
-  xy: 2005, 2005
+  xy: 1367, 1309
   size: 42, 42
   orig: 42, 42
   offset: 0, 0
   index: -1
 image_ui_lock_small
   rotate: false
-  xy: 431, 427
+  xy: 2014, 735
   size: 33, 43
   orig: 33, 43
   offset: 0, 0
   index: -1
 image_ui_lock_small_gold
   rotate: false
-  xy: 431, 472
+  xy: 2014, 780
   size: 33, 43
   orig: 33, 43
   offset: 0, 0
   index: -1
 image_ui_mainmenu_add_photo_icon
   rotate: false
-  xy: 247, 797
+  xy: 1056, 1279
   size: 65, 45
   orig: 65, 45
   offset: 0, 0
   index: -1
 image_ui_mainmenu_back_btn_normal
   rotate: false
-  xy: 1138, 1688
+  xy: 1678, 809
   size: 61, 61
   orig: 61, 61
   offset: 0, 0
   index: -1
 image_ui_mainmenu_back_btn_pressed
   rotate: false
-  xy: 747, 1321
+  xy: 1615, 805
   size: 61, 61
   orig: 61, 61
   offset: 0, 0
   index: -1
 image_ui_mainmenu_btn_bkgd
   rotate: false
-  xy: 700, 1591
+  xy: 1982, 1753
   size: 65, 63
   orig: 65, 63
   offset: 0, 0
   index: -1
 image_ui_mainmenu_checkbox_disabled
   rotate: false
-  xy: 990, 1295
+  xy: 1677, 665
   size: 46, 46
   orig: 46, 46
   offset: 0, 0
   index: -1
 image_ui_mainmenu_checkbox_enabled
   rotate: false
-  xy: 942, 1310
+  xy: 1677, 713
   size: 46, 46
   orig: 46, 46
   offset: 0, 0
   index: -1
 image_ui_mainmenu_edit_btn_normal
   rotate: false
-  xy: 618, 1196
+  xy: 1922, 935
   size: 54, 58
   orig: 54, 58
   offset: 0, 0
   index: -1
 image_ui_mainmenu_edit_btn_pressed
   rotate: false
-  xy: 886, 1357
+  xy: 1866, 941
   size: 54, 58
   orig: 54, 58
   offset: 0, 0
   index: -1
 image_ui_mainmenu_external_link_icon
   rotate: false
-  xy: 704, 1080
+  xy: 539, 1
   size: 26, 27
   orig: 26, 27
   offset: 0, 0
   index: -1
 image_ui_mainmenu_external_link_icon_down
   rotate: false
-  xy: 849, 1135
+  xy: 511, 1
   size: 26, 27
   orig: 26, 27
   offset: 0, 0
   index: -1
+image_ui_mainmenu_feature_unlock_header_panel_blue
+  rotate: false
+  xy: 539, 1194
+  size: 133, 458
+  orig: 133, 458
+  offset: 0, 0
+  index: -1
 image_ui_mainmenu_highlight_center
   rotate: false
-  xy: 411, 255
+  xy: 1543, 1145
   size: 18, 54
   orig: 18, 54
   offset: 0, 0
   index: -1
 image_ui_mainmenu_highlight_edge
   rotate: false
-  xy: 704, 978
+  xy: 1976, 879
   size: 18, 54
   orig: 18, 54
   offset: 0, 0
   index: -1
 image_ui_mainmenu_highlight_edge_down
   rotate: false
-  xy: 684, 972
+  xy: 546, 182
   size: 18, 54
   orig: 18, 54
   offset: 0, 0
   index: -1
 image_ui_mainmenu_inset_bkgd
   rotate: false
-  xy: 1044, 1477
+  xy: 606, 1092
   size: 44, 44
   orig: 44, 44
   offset: 0, 0
   index: -1
+image_ui_mainmenu_loader_fill
+  rotate: false
+  xy: 785, 2021
+  size: 275, 26
+  orig: 275, 26
+  offset: 0, 0
+  index: -1
+image_ui_mainmenu_loader_meter
+  rotate: false
+  xy: 470, 1974
+  size: 288, 38
+  orig: 288, 38
+  offset: 0, 0
+  index: -1
 image_ui_mainmenu_mm_arrow_right
   rotate: false
-  xy: 389, 311
+  xy: 1254, 1
   size: 31, 29
   orig: 31, 29
   offset: 0, 0
   index: -1
 image_ui_mainmenu_mm_arrow_right_down
   rotate: false
-  xy: 390, 342
+  xy: 1221, 1
   size: 31, 29
   orig: 31, 29
   offset: 0, 0
   index: -1
-image_ui_mainmenu_mm_divider_left
+image_ui_mainmenu_mm_camerawindowguide
   rotate: false
-  xy: 296, 9
-  size: 11, 19
-  orig: 11, 19
+  xy: 1, 1004
+  size: 238, 238
+  orig: 238, 238
   offset: 0, 0
   index: -1
-image_ui_mainmenu_mm_divider_middle
+image_ui_mainmenu_mm_nameentry
   rotate: false
-  xy: 487, 1374
-  size: 4, 5
-  orig: 4, 5
+  xy: 1, 1746
+  size: 291, 58
+  orig: 291, 58
   offset: 0, 0
   index: -1
-image_ui_mainmenu_mm_divider_right
+image_ui_mainmenu_mm_settings_tab
   rotate: false
-  xy: 767, 1635
-  size: 11, 19
-  orig: 11, 19
-  offset: 0, 0
-  index: -1
-image_ui_mainmenu_mm_divider_vertical
-  rotate: false
-  xy: 1045, 1892
-  size: 4, 2
-  orig: 4, 2
-  offset: 0, 0
-  index: -1
-image_ui_mainmenu_mm_playericon
-  rotate: false
-  xy: 674, 1130
-  size: 28, 32
-  orig: 28, 32
-  offset: 0, 0
-  index: -1
-image_ui_mainmenu_mm_selectedprofile_shade
-  rotate: false
-  xy: 688, 1400
-  size: 8, 57
-  orig: 8, 57
-  offset: 0, 0
-  index: -1
-image_ui_mainmenu_mm_tile
-  rotate: false
-  xy: 616, 1328
-  size: 3, 3
-  orig: 3, 3
+  xy: 1, 1894
+  size: 392, 59
+  orig: 392, 59
   offset: 0, 0
   index: -1
 image_ui_mainmenu_name_field
   rotate: false
-  xy: 870, 1307
+  xy: 585, 1
   size: 58, 48
   orig: 58, 48
   offset: 0, 0
   index: -1
-image_ui_mainmenu_slider_bolt
-  rotate: false
-  xy: 944, 1611
-  size: 49, 48
-  orig: 49, 48
-  offset: 0, 0
-  index: -1
 image_ui_mainmenu_text_entry_field
   rotate: false
-  xy: 2005, 1974
+  xy: 1997, 1033
   size: 33, 29
   orig: 33, 29
   offset: 0, 0
   index: -1
-image_ui_mints_stack_1
-  rotate: false
-  xy: 1201, 1630
-  size: 60, 72
-  orig: 60, 72
-  offset: 0, 0
-  index: -1
-image_ui_hud_ingame_mint
-  rotate: false
-  xy: 1201, 1630
-  size: 60, 72
-  orig: 60, 72
-  offset: 0, 0
-  index: -1
-image_ui_mints_stack_2
-  rotate: false
-  xy: 1353, 1818
-  size: 74, 74
-  orig: 74, 74
-  offset: 0, 0
-  index: -1
-image_ui_powerups_border_bottom
-  rotate: false
-  xy: 83, 24
-  size: 73, 15
-  orig: 73, 15
-  offset: 0, 0
-  index: -1
-image_ui_powerups_border_corner_bottomleft
-  rotate: false
-  xy: 1090, 1531
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
-image_ui_powerups_border_corner_bottomright
-  rotate: false
-  xy: 1092, 1565
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
-image_ui_powerups_border_corner_topleft
-  rotate: false
-  xy: 913, 1214
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
-image_ui_powerups_border_corner_topright
-  rotate: false
-  xy: 312, 282
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
-image_ui_powerups_border_left
-  rotate: false
-  xy: 411, 105
-  size: 15, 73
-  orig: 15, 73
-  offset: 0, 0
-  index: -1
-image_ui_powerups_border_right
-  rotate: false
-  xy: 411, 180
-  size: 15, 73
-  orig: 15, 73
-  offset: 0, 0
-  index: -1
-image_ui_powerups_border_top
-  rotate: false
-  xy: 1, 6
-  size: 73, 15
-  orig: 73, 15
-  offset: 0, 0
-  index: -1
 image_ui_powerups_power_beghouledfill
   rotate: false
-  xy: 1682, 1894
+  xy: 980, 354
   size: 75, 75
   orig: 75, 75
   offset: 0, 0
   index: -1
 image_ui_powerups_power_beghouledfill_down
   rotate: false
-  xy: 1605, 1894
+  xy: 1312, 662
   size: 75, 75
   orig: 75, 75
   offset: 0, 0
   index: -1
 image_ui_powerups_power_beghouledshovel
   rotate: false
-  xy: 1880, 1670
+  xy: 1488, 1201
   size: 73, 73
   orig: 73, 73
   offset: 0, 0
   index: -1
 image_ui_powerups_power_beghouledshovel_down
   rotate: false
-  xy: 487, 1158
+  xy: 1377, 509
   size: 73, 73
   orig: 73, 73
   offset: 0, 0
   index: -1
 image_ui_powerups_power_beghouledshuffle
   rotate: false
-  xy: 1955, 1745
+  xy: 1045, 14
   size: 73, 73
   orig: 73, 73
   offset: 0, 0
   index: -1
 image_ui_powerups_power_beghouledshuffle_down
   rotate: false
-  xy: 1880, 1745
+  xy: 970, 52
   size: 73, 73
   orig: 73, 73
   offset: 0, 0
   index: -1
 image_ui_powerups_power_flamethrower
   rotate: false
-  xy: 1805, 1743
+  xy: 1128, 39
   size: 73, 73
   orig: 73, 73
   offset: 0, 0
   index: -1
 image_ui_powerups_power_flamethrower_down
   rotate: false
-  xy: 1730, 1743
+  xy: 1053, 89
   size: 73, 73
   orig: 73, 73
   offset: 0, 0
   index: -1
 image_ui_powerups_power_ice
   rotate: false
-  xy: 484, 1008
+  xy: 978, 202
   size: 74, 74
   orig: 74, 74
   offset: 0, 0
   index: -1
 image_ui_powerups_power_ice_down
   rotate: false
-  xy: 1733, 1818
+  xy: 979, 278
   size: 74, 74
   orig: 74, 74
   offset: 0, 0
   index: -1
 image_ui_powerups_power_shock
   rotate: false
-  xy: 1657, 1818
+  xy: 1466, 598
   size: 74, 74
   orig: 74, 74
   offset: 0, 0
   index: -1
 image_ui_powerups_power_shock_down
   rotate: false
-  xy: 1581, 1818
+  xy: 1466, 674
   size: 74, 74
   orig: 74, 74
   offset: 0, 0
   index: -1
 image_ui_powerups_power_sweep
   rotate: false
-  xy: 1505, 1818
+  xy: 1466, 750
   size: 74, 74
   orig: 74, 74
   offset: 0, 0
   index: -1
 image_ui_powerups_power_sweep_down
   rotate: false
-  xy: 1429, 1818
+  xy: 1466, 826
   size: 74, 74
   orig: 74, 74
   offset: 0, 0
   index: -1
 image_ui_powerups_power_vasebreakerbutter
   rotate: false
-  xy: 1528, 1894
+  xy: 1312, 739
   size: 75, 75
   orig: 75, 75
   offset: 0, 0
   index: -1
 image_ui_powerups_power_vasebreakerbutter_down
   rotate: false
-  xy: 1451, 1894
+  xy: 1312, 816
   size: 75, 75
   orig: 75, 75
   offset: 0, 0
   index: -1
 image_ui_powerups_power_vasebreakermove
   rotate: false
-  xy: 1374, 1894
+  xy: 1312, 893
   size: 75, 75
   orig: 75, 75
   offset: 0, 0
   index: -1
 image_ui_powerups_power_vasebreakermove_down
   rotate: false
-  xy: 1297, 1894
+  xy: 1312, 970
   size: 75, 75
   orig: 75, 75
   offset: 0, 0
   index: -1
 image_ui_powerups_power_vasebreakerreveal
   rotate: false
-  xy: 1220, 1893
+  xy: 1312, 1047
   size: 75, 75
   orig: 75, 75
   offset: 0, 0
   index: -1
 image_ui_powerups_power_vasebreakerreveal_down
   rotate: false
-  xy: 242, 707
+  xy: 1312, 1124
   size: 75, 75
   orig: 75, 75
   offset: 0, 0
   index: -1
 image_ui_powerups_powerup_beghouled_shock
   rotate: false
-  xy: 1655, 1743
+  xy: 978, 127
   size: 73, 73
   orig: 73, 73
   offset: 0, 0
   index: -1
 image_ui_powerups_powerup_beghouled_shock_down
   rotate: false
-  xy: 1580, 1743
+  xy: 1130, 114
   size: 73, 73
   orig: 73, 73
   offset: 0, 0
   index: -1
 image_ui_powerups_powerup_border
   rotate: false
-  xy: 1505, 1743
+  xy: 1131, 189
   size: 73, 73
   orig: 73, 73
   offset: 0, 0
   index: -1
 image_ui_powerups_powerup_cost
   rotate: false
-  xy: 416, 1319
+  xy: 652, 508
   size: 60, 26
   orig: 60, 26
   offset: 0, 0
   index: -1
 image_ui_powerups_powerup_inventory_bg
   rotate: false
-  xy: 996, 1689
+  xy: 1862, 781
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
+image_ui_quests_achievements_active
+  rotate: false
+  xy: 1557, 1276
+  size: 139, 86
+  orig: 139, 86
+  offset: 0, 0
+  index: -1
+image_ui_quests_achievements_inactive
+  rotate: false
+  xy: 1416, 1324
+  size: 139, 65
+  orig: 139, 65
+  offset: 0, 0
+  index: -1
 image_ui_quests_close_btn
   rotate: false
-  xy: 679, 1255
+  xy: 1741, 873
   size: 61, 61
   orig: 61, 61
   offset: 0, 0
   index: -1
 image_ui_quests_close_tab
   rotate: false
-  xy: 782, 1615
+  xy: 1754, 1065
   size: 68, 62
   orig: 68, 62
   offset: 0, 0
   index: -1
 image_ui_quests_close_tab_down
   rotate: false
-  xy: 783, 1679
+  xy: 1684, 1001
   size: 68, 62
   orig: 68, 62
   offset: 0, 0
   index: -1
 image_ui_quests_coin_icon
   rotate: false
-  xy: 632, 1025
+  xy: 1726, 766
   size: 42, 41
   orig: 42, 41
   offset: 0, 0
   index: -1
+image_ui_quests_daily_active
+  rotate: false
+  xy: 1275, 1353
+  size: 139, 86
+  orig: 139, 86
+  offset: 0, 0
+  index: -1
+image_ui_quests_daily_inactive
+  rotate: false
+  xy: 183, 165
+  size: 139, 65
+  orig: 139, 65
+  offset: 0, 0
+  index: -1
+image_ui_quests_daily_quest_banner
+  rotate: false
+  xy: 1, 168
+  size: 176, 48
+  orig: 176, 48
+  offset: 0, 0
+  index: -1
 image_ui_quests_difficulty_bg
   rotate: false
-  xy: 820, 1119
+  xy: 1824, 670
   size: 27, 43
   orig: 27, 43
   offset: 0, 0
   index: -1
+image_ui_quests_earmark_epic
+  rotate: false
+  xy: 1, 218
+  size: 180, 61
+  orig: 180, 61
+  offset: 0, 0
+  index: -1
+image_ui_quests_earmark_premium
+  rotate: false
+  xy: 1880, 1530
+  size: 140, 34
+  orig: 140, 34
+  offset: 0, 0
+  index: -1
+image_ui_quests_earmark_primary
+  rotate: false
+  xy: 1880, 1566
+  size: 140, 34
+  orig: 140, 34
+  offset: 0, 0
+  index: -1
 image_ui_quests_edge_gradient_bottom
   rotate: false
-  xy: 402, 807
+  xy: 1466, 1050
   size: 75, 50
   orig: 75, 50
   offset: 0, 0
   index: -1
+image_ui_quests_epic_active
+  rotate: false
+  xy: 1587, 1364
+  size: 139, 86
+  orig: 139, 86
+  offset: 0, 0
+  index: -1
+image_ui_quests_epic_inactive
+  rotate: false
+  xy: 1880, 1463
+  size: 139, 65
+  orig: 139, 65
+  offset: 0, 0
+  index: -1
 image_ui_quests_epic_reward_coins
   rotate: false
-  xy: 1429, 1742
+  xy: 1054, 164
   size: 74, 74
   orig: 74, 74
   offset: 0, 0
   index: -1
 image_ui_quests_epic_reward_gems
   rotate: false
-  xy: 1353, 1742
+  xy: 1055, 240
   size: 74, 74
   orig: 74, 74
   offset: 0, 0
   index: -1
 image_ui_quests_epic_reward_mints
   rotate: false
-  xy: 826, 1417
+  xy: 1804, 923
   size: 60, 72
   orig: 60, 72
   offset: 0, 0
   index: -1
 image_ui_quests_epic_reward_pinata
   rotate: false
-  xy: 631, 1525
+  xy: 1982, 1818
   size: 65, 74
   orig: 65, 74
   offset: 0, 0
   index: -1
 image_ui_quests_eq_grid_segment_horizontal
   rotate: false
-  xy: 1, 1
+  xy: 1891, 1889
   size: 67, 3
   orig: 67, 3
   offset: 0, 0
   index: -1
 image_ui_quests_eq_grid_segment_vertical
   rotate: false
-  xy: 164, 787
+  xy: 814, 177
   size: 3, 32
   orig: 3, 32
   offset: 0, 0
   index: -1
 image_ui_quests_gem_icon
   rotate: false
-  xy: 632, 1068
+  xy: 606, 1007
   size: 42, 41
   orig: 42, 41
   offset: 0, 0
   index: -1
 image_ui_quests_icon_epic
   rotate: false
-  xy: 335, 1232
+  xy: 1256, 1201
   size: 76, 76
   orig: 76, 76
   offset: 0, 0
   index: -1
 image_ui_quests_level_node_connector_empty
   rotate: false
-  xy: 407, 941
+  xy: 1982, 1745
   size: 64, 6
   orig: 64, 6
   offset: 0, 0
   index: -1
 image_ui_quests_level_node_connector_fill
   rotate: false
-  xy: 402, 797
+  xy: 606, 1184
   size: 66, 8
   orig: 66, 8
   offset: 0, 0
   index: -1
+image_ui_quests_new_banner
+  rotate: false
+  xy: 1, 122
+  size: 169, 44
+  orig: 169, 44
+  offset: 0, 0
+  index: -1
+image_ui_quests_panel_edge_to_edge
+  rotate: false
+  xy: 1, 1244
+  size: 252, 64
+  orig: 252, 64
+  offset: 0, 0
+  index: -1
 image_ui_quests_quest_icon_brown
   rotate: false
-  xy: 749, 1955
+  xy: 903, 580
   size: 79, 92
   orig: 79, 92
   offset: 0, 0
   index: -1
 image_ui_quests_quest_level_node_complete
   rotate: false
-  xy: 747, 1280
+  xy: 1883, 1029
   size: 55, 39
   orig: 55, 39
   offset: 0, 0
   index: -1
 image_ui_quests_quest_level_node_next
   rotate: false
-  xy: 1955, 1632
+  xy: 645, 10
   size: 55, 39
   orig: 55, 39
   offset: 0, 0
   index: -1
 image_ui_quests_quest_level_node_upcoming
   rotate: false
-  xy: 490, 1237
+  xy: 454, 17
   size: 55, 39
   orig: 55, 39
   offset: 0, 0
   index: -1
 image_ui_quests_quest_list_bg
   rotate: false
-  xy: 856, 1214
+  xy: 1940, 1030
   size: 55, 32
   orig: 55, 32
   offset: 0, 0
   index: -1
+image_ui_quests_quest_panel_complete
+  rotate: false
+  xy: 470, 544
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+image_ui_quests_quest_panel_complete_new
+  rotate: false
+  xy: 1556, 1740
+  size: 140, 141
+  orig: 140, 141
+  offset: 0, 0
+  index: -1
+image_ui_quests_quest_panel_daily
+  rotate: false
+  xy: 1, 1955
+  size: 467, 92
+  orig: 467, 92
+  offset: 0, 0
+  index: -1
+image_ui_quests_quest_panel_default
+  rotate: false
+  xy: 326, 233
+  size: 140, 141
+  orig: 140, 141
+  offset: 0, 0
+  index: -1
+image_ui_quests_quest_panel_epic
+  rotate: false
+  xy: 184, 232
+  size: 140, 142
+  orig: 140, 142
+  offset: 0, 0
+  index: -1
+image_ui_quests_quest_panel_epic_complete
+  rotate: false
+  xy: 218, 376
+  size: 140, 142
+  orig: 140, 142
+  offset: 0, 0
+  index: -1
+image_ui_quests_quest_panel_expired
+  rotate: false
+  xy: 218, 520
+  size: 140, 141
+  orig: 140, 141
+  offset: 0, 0
+  index: -1
+image_ui_quests_quest_panel_new
+  rotate: false
+  xy: 470, 641
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+image_ui_quests_quest_panel_new_epic
+  rotate: false
+  xy: 465, 738
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
 image_ui_quests_quest_panel_trough
   rotate: false
-  xy: 698, 1384
+  xy: 454, 58
   size: 64, 100
   orig: 64, 100
   offset: 0, 0
   index: -1
 image_ui_quests_quest_points_fillbar_bg
   rotate: false
-  xy: 547, 1242
+  xy: 1883, 1001
   size: 55, 26
   orig: 55, 26
   offset: 0, 0
   index: -1
 image_ui_quests_quest_points_fillbar_fill
   rotate: false
-  xy: 239, 2
+  xy: 1120, 11
   size: 55, 26
   orig: 55, 26
   offset: 0, 0
   index: -1
 image_ui_quests_quest_points_fillbar_fill_green
   rotate: false
-  xy: 1990, 1824
+  xy: 1728, 1364
   size: 55, 26
   orig: 55, 26
   offset: 0, 0
   index: -1
 image_ui_quests_quest_rewards_bg
   rotate: false
-  xy: 1086, 1442
+  xy: 1725, 655
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
 image_ui_quests_quest_rewards_bg_epic
   rotate: false
-  xy: 557, 1333
+  xy: 1614, 931
   size: 62, 68
   orig: 62, 68
   offset: 0, 0
   index: -1
-image_ui_quests_quest_rewards_steps_current_glow
-  rotate: false
-  xy: 944, 1661
-  size: 50, 40
-  orig: 50, 40
-  offset: 0, 0
-  index: -1
 image_ui_quests_quest_toast
   rotate: false
-  xy: 1, 23
+  xy: 1074, 707
   size: 80, 244
   orig: 80, 244
   offset: 0, 0
   index: -1
 image_ui_quests_quest_toast_epic
   rotate: false
-  xy: 1, 269
+  xy: 1074, 953
   size: 80, 244
   orig: 80, 244
   offset: 0, 0
   index: -1
-image_ui_quests_questicons_80s
+image_ui_quests_questborder
   rotate: false
-  xy: 1276, 1816
-  size: 75, 75
-  orig: 75, 75
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_ads
-  rotate: false
-  xy: 710, 1656
-  size: 70, 72
-  orig: 70, 72
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_arena
-  rotate: false
-  xy: 711, 1730
-  size: 70, 72
-  orig: 70, 72
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_ash
-  rotate: false
-  xy: 1199, 1815
-  size: 75, 75
-  orig: 75, 75
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_bigwavebeach
-  rotate: false
-  xy: 1122, 1815
-  size: 75, 75
-  orig: 75, 75
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_darkages
-  rotate: false
-  xy: 1045, 1815
-  size: 75, 75
-  orig: 75, 75
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_egypt
-  rotate: false
-  xy: 968, 1819
-  size: 75, 75
-  orig: 75, 75
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_electrocute
-  rotate: false
-  xy: 891, 1819
-  size: 75, 75
-  orig: 75, 75
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_expansionlevel
-  rotate: false
-  xy: 814, 1819
-  size: 75, 75
-  orig: 75, 75
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_fallfestival
-  rotate: false
-  xy: 1067, 1741
-  size: 69, 72
-  orig: 69, 72
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_farfuture
-  rotate: false
-  xy: 737, 1878
-  size: 75, 75
-  orig: 75, 75
+  xy: 931, 1279
+  size: 123, 123
+  orig: 123, 123
   offset: 0, 0
   index: -1
 image_ui_quests_questicons_feastivus
   rotate: false
-  xy: 996, 1741
+  xy: 1543, 982
   size: 69, 72
   orig: 69, 72
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_foodfight
-  rotate: false
-  xy: 925, 1745
-  size: 69, 72
-  orig: 69, 72
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_frostbitecaves
-  rotate: false
-  xy: 660, 1891
-  size: 75, 75
-  orig: 75, 75
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_gargantuar
-  rotate: false
-  xy: 711, 1804
-  size: 70, 72
-  orig: 70, 72
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_jurassicmarsh
-  rotate: false
-  xy: 583, 1891
-  size: 75, 75
-  orig: 75, 75
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_knockback
-  rotate: false
-  xy: 506, 1891
-  size: 75, 75
-  orig: 75, 75
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_lawnofdoom
-  rotate: false
-  xy: 638, 1669
-  size: 70, 72
-  orig: 70, 72
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_levelup
-  rotate: false
-  xy: 416, 1381
-  size: 75, 75
-  orig: 75, 75
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_lostcity
-  rotate: false
-  xy: 407, 1007
-  size: 75, 75
-  orig: 75, 75
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_lotd
-  rotate: false
-  xy: 566, 1669
-  size: 70, 72
-  orig: 70, 72
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_mints
-  rotate: false
-  xy: 494, 1669
-  size: 70, 72
-  orig: 70, 72
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_modern
-  rotate: false
-  xy: 413, 1233
-  size: 75, 75
-  orig: 75, 75
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_pirate
-  rotate: false
-  xy: 419, 1537
-  size: 75, 75
-  orig: 75, 75
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_plant
-  rotate: false
-  xy: 639, 1743
-  size: 70, 72
-  orig: 70, 72
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_powerups
-  rotate: false
-  xy: 567, 1743
-  size: 70, 72
-  orig: 70, 72
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_premiumplants
-  rotate: false
-  xy: 1913, 1820
-  size: 75, 75
-  orig: 75, 75
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_premiumseeds
-  rotate: false
-  xy: 1836, 1820
-  size: 75, 75
-  orig: 75, 75
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_premiumseeds2
-  rotate: false
-  xy: 403, 859
-  size: 75, 75
-  orig: 75, 75
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_refrigerate
-  rotate: false
-  xy: 396, 708
-  size: 75, 75
-  orig: 75, 75
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_rent_a_plant
-  rotate: false
-  xy: 854, 1745
-  size: 69, 72
-  orig: 69, 72
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_rift
-  rotate: false
-  xy: 495, 1743
-  size: 70, 72
-  orig: 70, 72
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_stunned
-  rotate: false
-  xy: 639, 1817
-  size: 70, 72
-  orig: 70, 72
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_wildwest
-  rotate: false
-  xy: 319, 708
-  size: 75, 75
-  orig: 75, 75
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_zombie
-  rotate: false
-  xy: 567, 1817
-  size: 70, 72
-  orig: 70, 72
-  offset: 0, 0
-  index: -1
-image_ui_quests_questicons_zomboss
-  rotate: false
-  xy: 495, 1817
-  size: 70, 72
-  orig: 70, 72
   offset: 0, 0
   index: -1
 image_ui_quests_replace_quest_button
   rotate: false
-  xy: 1146, 1970
+  xy: 1063, 549
   size: 77, 77
   orig: 77, 77
   offset: 0, 0
   index: -1
 image_ui_quests_replace_quest_button_down
   rotate: false
-  xy: 1067, 1970
+  xy: 1064, 628
   size: 77, 77
   orig: 77, 77
   offset: 0, 0
   index: -1
+image_ui_quests_travel_log_corner
+  rotate: false
+  xy: 1, 1500
+  size: 262, 209
+  orig: 262, 209
+  offset: 0, 0
+  index: -1
+image_ui_quests_travel_log_corner_norank
+  rotate: false
+  xy: 1, 1310
+  size: 256, 188
+  orig: 256, 188
+  offset: 0, 0
+  index: -1
 image_ui_quests_travel_log_node_complete
   rotate: false
-  xy: 799, 1215
+  xy: 286, 124
   size: 55, 39
   orig: 55, 39
   offset: 0, 0
   index: -1
 image_ui_quests_travel_log_node_next
   rotate: false
-  xy: 804, 1256
+  xy: 229, 124
   size: 55, 39
   orig: 55, 39
   offset: 0, 0
   index: -1
 image_ui_quests_travel_log_node_upcoming
   rotate: false
-  xy: 742, 1239
+  xy: 172, 124
   size: 55, 39
   orig: 55, 39
   offset: 0, 0
   index: -1
-image_ui_store_tabicons_plants
+image_ui_quests_travel_log_panel_claim_all
   rotate: false
-  xy: 496, 1533
-  size: 66, 66
-  orig: 66, 66
+  xy: 1698, 1274
+  size: 88, 88
+  orig: 88, 88
   offset: 0, 0
   index: -1
-image_ui_store_tabicons_upgrades
+image_ui_quests_travel_log_panel_complete
   rotate: false
-  xy: 632, 1601
-  size: 66, 66
-  orig: 66, 66
+  xy: 265, 1434
+  size: 136, 136
+  orig: 136, 136
   offset: 0, 0
   index: -1
-image_ui_store_tabicons_zombies
+image_ui_quests_travel_log_panel_default
   rotate: false
-  xy: 564, 1601
-  size: 66, 66
-  orig: 66, 66
+  xy: 1880, 1602
+  size: 140, 141
+  orig: 140, 141
+  offset: 0, 0
+  index: -1
+image_ui_quests_travel_log_panel_epic
+  rotate: false
+  xy: 1840, 1745
+  size: 140, 142
+  orig: 140, 142
+  offset: 0, 0
+  index: -1
+image_ui_quests_travel_log_panel_epic_complete
+  rotate: false
+  xy: 265, 1572
+  size: 136, 137
+  orig: 136, 137
+  offset: 0, 0
+  index: -1
+image_ui_quests_travel_log_panel_expired
+  rotate: false
+  xy: 1738, 1458
+  size: 140, 141
+  orig: 140, 141
+  offset: 0, 0
+  index: -1
+image_ui_quests_travel_log_panel_holiday_fallfestival
+  rotate: false
+  xy: 1738, 1601
+  size: 140, 142
+  orig: 140, 142
+  offset: 0, 0
+  index: -1
+image_ui_quests_travel_log_panel_holiday_feastivus
+  rotate: false
+  xy: 1596, 1452
+  size: 140, 142
+  orig: 140, 142
+  offset: 0, 0
+  index: -1
+image_ui_quests_travel_log_panel_holiday_foodfight
+  rotate: false
+  xy: 1596, 1596
+  size: 140, 142
+  orig: 140, 142
+  offset: 0, 0
+  index: -1
+image_ui_quests_travel_log_panel_holiday_lawnofdoom
+  rotate: false
+  xy: 1698, 1745
+  size: 140, 142
+  orig: 140, 142
+  offset: 0, 0
+  index: -1
+image_ui_red_flag
+  rotate: false
+  xy: 218, 699
+  size: 140, 34
+  orig: 140, 34
   offset: 0, 0
   index: -1
